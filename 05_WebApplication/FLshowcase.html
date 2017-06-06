@@ -1,0 +1,129 @@
+<html>
+<head>
+	<title>FL components showcase</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+	<link rel="stylesheet" href="style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+	<script src="script.js"></script>
+
+<style>
+#myframe{
+	width: 1000px;
+	min-width: 1000px;
+
+	height: 1000px;
+	min-height: 1000px;
+
+}
+</style>
+</head>
+<body>
+
+<div id="select_stage">
+<form name="change">
+<div id="coursePicker">
+<span id="dropdown_label">Selesct a course</span>
+<select id="course_select">
+    <option value="through-engineers-eyes-3">through engineers eyes (3)</option>
+    <option >--- NOT Live ---</option>
+
+</select>
+</div>
+
+<div id="chartPicker">
+
+
+<span id="dropdown_label">Selesct a chart</span>
+<ul class="tab">
+  <li><a href="#" class="tablinks" onclick="showChart(event, 'Demographic')">Demographic</a> </li>
+  <li><a href="#" class="tablinks" onclick="showChart(event, 'Enrolment')">Enrolment</a> </li>
+  <li><a href="#" class="tablinks" onclick="showChart(event, 'Activity')">Activity</a></li>
+  <li><a href="#" class="tablinks" onclick="showChart(event, 'Comments')">Comments</a></li>
+  <li><a href="#" class="tablinks" onclick="showChart(event, 'QuestionResponse')">Quizes and Tests</a></li>
+</ul>
+</div>
+
+
+
+<div id = "Demographic" class = "tabcontent">
+<SELECT id="chart_select_demographic">
+	<option>GeographicalDistribution 		</option>
+	<option>GenderDistribution 			</option>
+	<option>GenderGeographicalDistribution </option>
+	<option>GenderEmploymentDistribution 	</option>
+	<option>GenderAgeDistribution 			</option>
+	<option>EducationDistribution 			</option>
+	<option>EmploymentAreaDistribution 	</option>
+</SELECT>
+</div>
+
+<div id = "Enrolment" class = "tabcontent">
+<SELECT id="chart_select_enrolment">
+	<option>EnrolmentsByWeek      		</option>
+	<option>EnrolmentsByDay       		</option>
+</SELECT>
+</div>
+
+<div id = "Activity" class = "tabcontent">
+<SELECT id="chart_select_activity">
+	<option>ActivityByStep 				</option>                              
+	<option>LearnersActivities 			</option>
+	<option>LearnersActivitiesByDay 		</option>
+	<option>HoursSpendByWeek 				</option>
+	<option>MinutesSpendByStep 			</option>
+	<option>StepProgressCountsHeatmap 		</option>	        
+	<option>LastProgressesByDate 				</option>
+	<option>LastProgressesByStep 			</option>
+	<option>Transition3StepsByType 		</option>
+	<option>TransitionByType 				</option>
+	<option>TransitionByWeek 				</option>
+	<option>TransitionByWeekSelection 		</option>
+	<option>VisitedFirstStepFinishedAllSteps</option>	
+</SELECT>
+</div>
+
+<div id = "Comments" class = "tabcontent"> 
+<SELECT id="chart_select_comments">
+	<option>CommentsOverviewTable 				</option>  
+	<option>CommentsHistogramByLearners 			</option>  
+	<option>CommentsStatsByStepRole 				</option>
+	<option>CommentsStatsStep 					</option>	
+	<option>CommentsStatsDay 						</option>
+	<option>CommentsStatsDayType 					</option>
+	<option>CommentsSummaryByEducators 			</option>	
+	<option>Top10CommentsByLikes 					</option>
+	<option>WordCountAnalysisByRole 				</option>	
+	<option>WordCountSummary 						</option>
+	<option>WordCountSummaryByEducators 			</option>
+	<option>AfinnSentimentAnalysisResult 			</option>  
+	<option>BingSentimentAnalysisResult 			</option>
+	<option>OriginalSentimentAnalysisResult 		</option>
+	<option>WordCloudOfOriginalSentimentAnalysis 	</option>	
+	<option>CommentViewer							</option>							
+</SELECT>
+</div>
+
+<div id = "QuestionResponse" class = "tabcontent">
+<SELECT id="chart_select_questionResponse">
+	<option>QuestionResponseOverview 	</option>
+	<option>RaschAnalysisSummary 		</option>
+	<option>ItemMap 					</option>
+	<option>PersonMap 					</option>
+	<option>QuartileAnalysisResult 		</option>
+	<option>AttemptToCorrect 			</option>
+	<option>QuizAttempts 				</option>	
+	<option>StepVisitedDuringQuizAttempt</option>
+</SELECT>
+</div>
+
+</form>
+</div>
+
+<hr>
+<div id="framebox">
+	<iframe name="iframe" id="myframe" src=""></iframe>
+</div>
+
+</body>
+</html>
