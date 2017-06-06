@@ -1,0 +1,152 @@
+# --------------------------------------------------------------------------- #
+[general]
+username = @unsw.edu.au
+password = 
+wait_time_seconds = 5
+place_files_in_data_directory = data
+use_course_name_as_folder = False
+download_enable = True
+use_course_slugs = True
+course_slugs = 	through-engineers-eyes,3 	
+use_active_courses = False
+use_inprogress_courses = False
+
+# --------------------------------------------------------------------------- #
+
+[database]
+db_host = localhost
+db_name = futurelearn_courses_information
+db_user = root
+db_pass = 
+
+# --------------------------------------------------------------------------- #
+
+[rscript]
+preprocessing_enable = False
+config_file = C:/UNSW/public_futurelearn/03_ExportsDownloader/Rscript/preprocessing_config.R
+path_to_script = C:/UNSW/public_futurelearn/03_ExportsDownloader/Rscript/preprocessing.R
+
+# --------------------------------------------------------------------------- #
+
+[sql_script]
+comments = CREATE TABLE `comments` (
+	`index` bigint(20) NOT NULL,
+	`id` bigint(20) DEFAULT NULL,
+	`author_id` varchar(36) DEFAULT NULL,
+	`parent_id` bigint(20) DEFAULT NULL,
+	`step` varchar(5) DEFAULT NULL,
+	`week_number` smallint(6) DEFAULT NULL,
+	`step_number` smallint(6) DEFAULT NULL,
+	`text` text,
+	`timestamp` datetime DEFAULT NULL,
+	`likes` int(11) DEFAULT NULL,
+	`first_reported_at` datetime DEFAULT NULL,	
+	`first_reported_reason` varchar(255) DEFAULT NULL,
+	`moderation_state` varchar(100) DEFAULT NULL,
+	`moderated` datetime DEFAULT NULL,	
+	PRIMARY KEY (`index`),
+	KEY `ix_comments_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+enrolments = CREATE TABLE `enrolments` (
+	`index` bigint(20) NOT NULL,
+	`learner_id` varchar(36) DEFAULT NULL,
+	`enrolled_at` datetime DEFAULT NULL,
+	`unenrolled_at` datetime DEFAULT NULL,
+	`role` varchar(20) DEFAULT NULL,
+	`fully_participated_at` datetime DEFAULT NULL,
+	`purchased_statement_at` datetime DEFAULT NULL,
+	`gender` varchar(20) DEFAULT NULL,
+	`country` varchar(20) DEFAULT NULL,
+	`age_range` varchar(20) DEFAULT NULL,
+	`highest_education_level` varchar(50) DEFAULT NULL,
+	`employment_status` varchar(50) DEFAULT NULL,
+	`employment_area` varchar(50) DEFAULT NULL,
+	`detected_country` varchar(2) DEFAULT NULL,
+	PRIMARY KEY (`index`),
+	KEY `ix_enrolments_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+question_response = CREATE TABLE `question_response` (
+	`index` bigint(20) NOT NULL,
+	`learner_id` varchar(36) DEFAULT NULL,
+	`quiz_question` varchar(10) DEFAULT NULL,
+	`week_number` smallint(6) DEFAULT NULL,
+	`step_number` smallint(6) DEFAULT NULL,
+	`question_number` smallint(6) DEFAULT NULL,
+	`response` varchar(50) DEFAULT NULL,
+	`submitted_at` datetime DEFAULT NULL,
+	`correct` tinyint(1) DEFAULT NULL,
+	PRIMARY KEY (`index`),
+	KEY `ix_question_response_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+question_response_v2 = CREATE TABLE `question_response` (
+	`index` bigint(20) NOT NULL,
+	`learner_id` varchar(36) DEFAULT NULL,
+	`quiz_question` varchar(10) DEFAULT NULL,
+	`question_type` varchar(50) DEFAULT NULL,
+	`week_number` smallint(6) DEFAULT NULL,
+	`step_number` smallint(6) DEFAULT NULL,
+	`question_number` smallint(6) DEFAULT NULL,
+	`response` varchar(50) DEFAULT NULL,
+	`cloze_response` varchar(50) DEFAULT NULL,
+	`submitted_at` datetime DEFAULT NULL,
+	`correct` tinyint(1) DEFAULT NULL,
+	PRIMARY KEY (`index`),
+	KEY `ix_question_response_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+step_activity = CREATE TABLE `step_activity` (
+	`index` bigint(20) NOT NULL,
+	`learner_id` varchar(36) DEFAULT NULL,
+	`step` varchar(5) DEFAULT NULL,
+	`week_number` smallint(6) DEFAULT NULL,
+	`step_number` smallint(6) DEFAULT NULL,
+	`first_visited_at` datetime DEFAULT NULL,
+	`last_completed_at` datetime DEFAULT NULL,
+	PRIMARY KEY (`index`),
+	KEY `ix_step_activity_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+peer_review_assignments = CREATE TABLE `peer_review_assignments` (
+	`index` bigint(20) NOT NULL,
+	`id` bigint(20) DEFAULT NULL,
+	`step` varchar(5) DEFAULT NULL,
+	`step_number` smallint(6) DEFAULT NULL,
+	`week_number` smallint(6) DEFAULT NULL,	
+	`author_id` varchar(36) DEFAULT NULL,
+	`text` text,
+	`first_viewed_at` datetime DEFAULT NULL,
+	`submitted_at` datetime DEFAULT NULL,
+	`moderated` datetime DEFAULT NULL,
+	`review_count` int(11) DEFAULT NULL,
+	PRIMARY KEY (`index`),
+	KEY `ix_peer_review_assignments_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+peer_review_reviews = CREATE TABLE `peer_review_reviews` (
+	`index` bigint(20) NOT NULL,
+	`id` bigint(20) DEFAULT NULL,
+	`step` varchar(5) DEFAULT NULL,
+	`week_number` smallint(6) DEFAULT NULL,
+	`step_number` smallint(6) DEFAULT NULL,
+	`reviewer_id` varchar(36) DEFAULT NULL,
+	`assignment_id` bigint(20) DEFAULT NULL,
+	`guideline_one_feedback` text,
+	`guideline_two_feedback` text,
+	`guideline_three_feedback` text,
+	`created_at` datetime DEFAULT NULL,
+	PRIMARY KEY (`index`),
+	KEY `ix_peer_review_reviews_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+team_members = CREATE TABLE `team_members` (`index` bigint(20) NOT NULL,
+	`id` varchar(36) NOT NULL,
+	`first_name` varchar(100) DEFAULT NULL,
+	`last_name` varchar(100) DEFAULT NULL,
+	`team_role` varchar(50) NOT NULL,
+	`user_role` varchar(50) DEFAULT NULL,
+	PRIMARY KEY (`index`),
+	KEY `ix_team_members_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+campaigns = CREATE TABLE `campaigns` (
+  `index` bigint(20) NOT NULL,
+  `utm_source` varchar(255) DEFAULT NULL,
+  `utm_campaign` varchar(255) DEFAULT NULL,
+  `utm_medium` varchar(255) DEFAULT NULL,
+  `utm_term` varchar(255) DEFAULT NULL,
+  `utm_content` varchar(45) DEFAULT NULL,
+  `domain` varchar(255) DEFAULT NULL,
+  `enrolments` int(11) DEFAULT NULL,
+  `active_learners` int(11) DEFAULT NULL,
+  `upgrades_purchased` int(11) DEFAULT NULL,
+  PRIMARY KEY (`index`),
+  KEY `ix_campaigns_index` (`index`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+

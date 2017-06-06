@@ -1,0 +1,792 @@
+"step_number","title","type","duration","duration_secs","week_label","week_datetime","week_date","week_heading","step_url","step_content"
+"1.1","Introductory video","Video","01:47",107,"Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/113887","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9757052/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9757052/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.2","Meet the team","Article","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/113889","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p><strong>Welcome from the educator team!</strong></p>
+                  
+                  <p>Each week of this course will be led by specialists in their field. The overall lead for this course is Associate Professor David Heslop, and other educators are Professor Raina MacIntyre and Dr David Muscatello. The mentor of this course is Dr Mahfuz Ashraf.</p>
+                  
+                  <p><strong>Associate Professor David Heslop</strong></p>
+                  <p>David Heslop is an associate Professor at the School of Public Health and Community Medicine at UNSW, and retains significant military responsibilities as Senior Medical Adviser for CBRNE to Special Operations Headquarters Australia and to Australian Defence Force (ADF) joint senior leadership. He is a practicing vocationally registered General Practitioner, a senior trainee in Occupational and Environmental Medicine with RACP, and a fellowship candidate for the Academy of Wilderness Medicine.&lt;/p&gt;</p>
+                  
+                  <p><strong>Professor Raina MacIntyre</strong></p>
+                  <p>Professor Raina MacIntyre is Head of the School of Public Health and Community Medicine at UNSW, Professor of Infectious Disease Epidemiology and PLuS Alliance Fellow. She runs a highly strategic research program spanning epidemiology, vaccinology, biosecurity, mathematical modelling, public health and clinical trials in infectious diseases.</p>
+                  
+                  <p><strong>Dr David Muscatello</strong></p>
+                  <p>Dr David Muscatello is a Senior Lecturer in infectious diseases epidemiology, at the School of Public Health and Community Medicine at UNSW. He has a PhD in the epidemiology of influenza. He also has many years' experience in government as an epidemiologist specialising in acute disease surveillance using administrative databases, public health intelligence and biostatistics including time series analysis. He played a major surveillance role in the New South Wales government response to pandemic influenza in 2009 and has served on the Australian National Influenza Surveillance Committee.</p>
+                  
+                  <p><strong>Xin (Jessie) Chen</strong></p>
+                  <p>Xin (Jessie) Chen is a PhD student at the School of Public Health and Community Medicine at UNSW, studying advanced analytical methods for complex outbreaks investigation, which will be engaged within an internationally connected NHMRC CRE for epidemic response. She completed the Master of Public Health (specialisation in infectious diseases control) from UNSW and Master of Clinical Medicine (Dermatology &amp; Sexually Transmitted Diseases) from China. Research interests include bioterrorism, outbreak investigation, infectious diseases epidemiology and control.</p>
+                  
+                  <p><strong>Chau Bui</strong></p>
+                  <p>Chau Bui is a veterinarian in her final year of a PhD on avian influenza epidemiology at the School of Public Health and Community Medicine at UNSW. She has a Masters of International Public Health from UNSW and her research interests are in the areas of emerging infectious diseases and spatial models.</p>
+                  
+                  <p><strong>Please use the comments section below to introduce yourself to the course!</strong></p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"1.3","Course description","Article","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/116529","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p><strong>An introduction to the scientific, policy, ethical and operational aspects of public health and wider responses to high risk biological agent events, epidemics and bioterrorism.</strong></p>
+                  
+                  <p>The course will run for 4 weeks and it is expected that the materials will take no more than 4 hours of your time including reflection and further reading.</p>
+                  
+                  <p> In the first week, you will learn about the public health aspects of biosecurity and biosafety, why they are important topics, the key underlying concepts and definitions and what the current situation is relating to high risk biological agents.</p>
+                  
+                  <p> In the second week, you will learn about epidemics, how they are described, researched and investigated. Key features of epidemics will be discussed, including some important historical examples to assist you with understanding the material.</p>
+                  
+                  <p> In the third week, you will learn about the importance of health surveillance, health intelligence and important differences between deliberate and accidental epidemic events. A well known historical case of an outbreak in the Soviet Union, and its subsequent investigation and analysis is presented. </p>
+                  
+                  <p> In the last week, you will learn about how front line response to high risk biological events is conducted. Policy, ethical and governance factors will be outlined that are critical to reducing the risk of biosecurity and bioterrorism events now and into the future.</p>
+                  
+                  <p>Throughout the course a feature presentation called ""Pandemic"" will assist you in connecting the various components discussed during each week, and highlight some important aspects of biosecurity and bioterrorism events using a fictional scenario.</p>
+                  
+                  <p><strong>By the end of this course, you should be able to:</strong></p>
+                  <ol>
+                  <li>Understand the basic principles of infectious disease investigation, epidemiology and public health response.</li>
+                  <li>Describe the basic principles of communicable disease response.</li>
+                  <li>Recognise the differences between natural versus unnatural patterns of infectious disease.</li>
+                  <li>Interpret and analyse health intelligence relating to biosecurity events.</li>
+                  <li>Identify the key public health concerns relating to biosecurity and bioterrorism events.</li>
+                  <li>Understand basic control measures for responding to biosecurity events.</li>
+                  <li>Appreciate the basic policy and ethical concerns relating to contemporary biosecurity.</li>
+                  </ol>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"1.4","Why FutureLearn?","Article","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/116477","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <h2><strong>Getting started with FutureLearn</strong></h2>
+                  
+                  <p>&#160;</p>
+                  <p> FutureLearn provides you an online platform to learn by watching videos, reading articles, writing and reviewing assignments and so on. While the course materials might sometimes seem similar with other online platforms, FutureLearn offers a unique and exciting learning method.</p>
+                  <p>At FutureLearn you won&#8217;t just find courses about technology and business skills, but you will also find courses about creativity, the humanities, healthcare, politics and plenty more. FutureLearn works with some of the best universities from around the world. </p>
+                  <p>If this is your first FutureLearn course, you may find it helpful to browse the <a href=""https://www.futurelearn.com/about/how-it-works"">How it Works</a> and <a href=""https://about.futurelearn.com/about/faq/?category=course-sign-up-and-completion"">FAQ</a> pages before moving on. When you have completed a section, don&#8217;t forget to click on the pink &#8216;Mark as complete&#8217; button at the bottom of the page, so that you can keep track of your progress. You can use any of your gadgets e.g. laptop, tablet, desktop and smartphone to access this course. </p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"1.5","Pre-course survey","Exercise","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/182932","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Welcome to the course! This pre-course survey is entirely optional, and can be completed whether you start the course late or leave early.</p>
+                  
+                  <p>Your feedback is valuable to us in improving the course and learning experience for future participants.</p>
+                  
+                  <p><strong>We are aware that some users of iPads and iPhones are experiencing issues with accessing surveys in the course. We are currently investigating this issue. The surveys should however work on android tablets, laptops or personal computers.</strong></p>
+                  
+                  <p><strong>If you experience any technical difficulties in accessing the activity, please send us a screen shot, description of your operating system (OS), web browser and steps taken to MOOCs@unsw.edu.au</strong></p>
+                  
+                  <p>Select the <strong>Launch button</strong> below to begin.</p>
+                </div>
+                ]"
+"1.6","Pandemic chapter 1","Video","02:56",176,"Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/113892","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9757238/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9757238/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.7","Infectious disease agents and how infection occurs","Video","09:27",567,"Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175160","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9757942/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9757942/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.8","How do infectious diseases move through populations and how do we quantify these population dynamics?","Video","10:03",603,"Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175161","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9758017/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9758017/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.9","Biosecurity is a complex web","Article","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/116526","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>We are first going to lay the groundwork of what is meant by biosecurity and bioterrorism, and how they are placed within the wider complex web of society, health and security.</p>
+                  <p><strong>Biosecurity is, defined most simply, all of the things that we undertake to protect humans and animals from disease and harmful biological agents. They can include human resources, research, procedures, policies, actions, monitoring, health interventions and many other things. Biosecurity is rarely achieved through implementation of a single thing, rather being the combination of efforts of numerous people, organisations, strategies and events.</strong></p>
+                  <p>Outbreaks such as pandemics or epidemics are sometimes the result of failures of normal measures for biosecurity without deliberate intent. They may be the result of:</p>
+                  <ul>
+                  <li>The breakdown in a health systems ability to protect a population against harmful biological agents</li>
+                  <li>An accident when dealing with a harmful biological agent or substance, leading to release</li>
+                  <li>Errors in the handling of materials contaminated with harmful biological agents, such as waste</li>
+                  <li>The natural emergence of a new harmful biological agent in a susceptible population</li>
+                  </ul>
+                  
+                  <p>In practice, the complex interactions of the above factors lead to the emergence of unexpected hazards and opportunities that influence the risk management of biological agents.</p>
+                  <p>Understanding the complexity of biosecurity through the conduct of research activities exploring the impact of policy, regulatory and technological solutions to biosecurity has been the primary goal of numerous individuals and organisations globally for a number of decades. The biosecurity concerns raised by epidemics such as the 2014 West African Ebola epidemic, and from climate change, rising global population, resource depletion, political and economic instability have significantly increased recently. </p>
+                  <p>Failures of biosecurity can have profound impacts on:</p>
+                  <ul><li>Economies</li>
+                  <li>Populations</li>
+                  <li>Travel</li>
+                  <li>Politics</li>
+                  <li>Welfare</li>
+                  <li>Healthcare</li>
+                  <li>Military forces</li>
+                  <li>Vulnerable populations (such as refugees and displaced persons)</li>
+                  </ul>
+                  <p>Recent commentaries and events have highlighted that biosecurity efforts require ongoing support and effort due to the highly varied and unpredictable nature of the next emerging biosecurity threat.</p>
+                  
+                  <p>After reading this article, discuss the answer to this question in the comments section below:</p>
+                  
+                  <p><strong>Can you think of any recent biological events that fall within one of the above causes of broad biosecurity events?</strong></p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"1.10","Introduction to bioterrorism and biosecurity","Video","09:32",572,"Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/181958","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9758152/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9758152/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.11","Public health concepts for biosafety and biosecurity","Article","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/113891","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Public health is the science of improving and protecting health through the promotion of healthy lifestyles, researching disease and injury prevention, and the detection and control of infectious diseases. Public health is primarily concerned with protecting the health of entire populations, from a global level through to regions, nations, communities, families and finally impacting on individuals. Public Health measures are primarily geared towards the prevention of illness and injury, rather than solely on the recognition, diagnosis and treatment of disease. A significant portion of public health work is aligned with health protection, particularly health measures that decrease impact and increase resilience to important threats such as emerging infectious diseases and other health risks.</p>
+                  <p><strong>Biosafety</strong> is a term that encompasses the actions, systems and policies that protect humans from exposure to harmful biological agents. Biosafety is an important consideration when individuals may or will handle high risk &#8211; that is, highly transmissible and highly lethal &#8211; biological agents. There are various components that together contribute to biosafety, however broadly speaking they can all be considered to be a form of risk reduction and control. A risk control is anything that reduces the ability of a hazard to cause injury to a person, and can take many forms. Personal protective equipment, laboratory physical containment systems and decontamination techniques are well known components of some Biosafety systems.</p>
+                  <p><strong>Biosecurity</strong> considerations have recently received much attention and have become increasingly important with technological change. Systems for determining suitability of individuals to work with high risk agents, cybersecurity and scientific information security are all examples of biosecurity risks that have required better management after significant events. Unlike biosafety, effective biosecurity measures require the cooperation of a wide range of experts such as scientists, policy makers, security engineers and law enforcement.</p>
+                  <p><strong>Public health practitioners contribute to biosafety and biosecurity through:</strong></p>
+                  <ul>
+                  <li>Risk management &#8211; the deliberate process of recognising biological agent hazards, and devising strategies to reduce the risk posed to humans.</li>
+                  <li>Clinical processes &#8211; by providing expert advice to develop appropriate protocols, techniques and procedures for conducting appropriate and safe research with high risk biological agents.</li>
+                  <li>Medical preparedness &#8211; by assisting decision makers and policy makers to expend scarce resources in protecting populations against biological threats most effectively, and so that response to a biological event is efficient.</li>
+                  <li>Logistics &#8211; by devising strategies to best utilise health care system resources to achieve the highest levels of biosafety and biosecurity.</li>
+                  <li>Outbreak response &#8211; by leading health teams in responding to epidemic events, and providing advice and support to decision makers during outbreaks.</li>
+                  <li>Decision support &#8211; by assisting policy makers and decision makers in making decisions surrounding biosafety and biosecurity that are ethical, effective and efficient.</li>
+                  </ul>
+                  <p>However, other agencies outside of health, such as defence, emergency services and law enforcement, are also responsible for biosecurity.&#160; One of the key locations where biosecurity is important is in laboratories where high risk biological agents are handled, researched, or stored.</p>
+                  
+                  <p><strong>After reading this article, discuss the answer to these questions in the comments section below:</strong></p>
+                  
+                  <ul>
+                  <li>What is the role of public health practitioners in promoting biosecurity and biosafety?</li>
+                  <li>What is the role of other agencies?</li>
+                  <li>Why are laboratory locations of significant biosecurity and biosafety risk?</li>
+                  </ul>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"1.12","Gene technology and Dual Use Research of Concern (DURC)","Video","05:30",330,"Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175883","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9759383/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9759383/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.13","Why is biosecurity important?","Discussion","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/116567","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Biosecurity is a series of measures to protect against the entry and spread of diseases. It refers not only to protection of human beings and their surrounding environment against hazardous biological agent, but also to global disarmament of weapons of mass destruction. As a result, the biosafety and biosecurity issues should be considered interdisciplinary based on multilateral agreements against proliferation of biological weapons, public health and environmental protection.</p>
+                  
+                  <p>So far we have discussed on bioterrorism and the agents deliberately used in bioterrorism. Now we will participate in a discussion on the following question below:</p>
+                  
+                  <p><strong>What aspects of public health practice do you think are most important for managing biosecurity and bioterrorism risks?</strong></p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"1.14","What have we learnt","Article","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/116532","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Key concepts: biosecurity, biosafety and bioterrorism</p>
+                  
+                  <p>In this week we introduced biosecurity, biosafety and bioterrorism as key concepts. These were then linked to how public health practitioners understand, investigate and manage risks associated with biosecurity and bioterrorism. You have learned that biosecurity sits within a complex web of interactions between risk, physical security, decision making and resources.</p>
+                  
+                  <p><strong>Feel free to share your own experiences with public health and epidemic responses, and some of the challenges involved in handling and managing high risk biological agents.</strong></p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"1.15","Preparing for Week 2","Article","","","Week 1","2017-04-24","24 Apr","Week 1: Public health concepts of biosafety and biosecurity","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/116533","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Biosecurity, Bioterrorism, Epidemiological and public health methods</p>
+                  
+                  <p>In Week 2 we will learn about the wide range of biological agents that potentially become a biosecurity problem, or be used as a bioterrorism agent. We will also explore some of the key features of bioterrorism and biosafety hazards and events. We will then explore the epidemiological and public health methods that are used to characterise and respond to outbreaks in populations. We will touch on what outbreaks are, how outbreaks are identified and how health authorities investigate the cause of outbreaks. Finally we will introduce key differences between bioterrorism-related outbreaks and other forms of outbreaks.</p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"2.1","Bioterrorism and laboratory risk","Video","02:49",169,"Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/116547","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9759539/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9759539/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.2","Bioterrorism agents","Video","00:59",59,"Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/181960","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9759715/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9759715/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.3","Current situation","Video","02:58",178,"Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175159","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9760054/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9760054/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.4","Detecting biological agents","Article","","","Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/116536","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Biological agents are microscopic and invisible, and cannot be easily detected in small quantities without the use of sophisticated testing methods. This is one of the reasons why biological agents are feared &#8211; it is often after individuals become symptomatic (display symptoms and signs of illness) that testing is first attempted and in many cases a definitive test result may not be known until after an individual has recovered or died. Some diseases, such as smallpox, may have a distinctive clinical syndrome, which should raise high levels of suspicion, but diagnostic testing needs to be done to confirm the cause.</p>
+                  <p>Recent advances in molecular biology, immunology and testing have given scientists and clinicians far better methods of detecting biological agents, even in minuscule quantities.</p>
+                  <p><strong>Three commonly used techniques for detecting and characterising biological agents are:</strong></p>
+                  <p><em>Culture, Microscopy and Sensitivity</em></p>
+                  <p>Biological agents (except for toxins) are living organisms. This presents an opportunity to selectively grow a biological agent of interest (a process called culture) for further study and testing. Biological agent culture is a specialised process where organisms are placed onto media that selectively allow certain biological agents to grow. Once grown, an identified biological agent can be further studied by utilising various techniques for visualising them under magnification (using microscopes), and exploring their characteristics and vulnerabilities using sensitivity analyses. Culture, microscopy and sensitivity testing is a foundation technique for testing biological agents. Due to the requirement to grow the biological agent, this form of testing can take days to weeks to yield a result.</p>
+                  <p><em>Immunoassay</em></p>
+                  <p>Biological agents can also be identified using specially designed and manufactured &#8220;chemical tags&#8221; that rely on protein molecules used in the immune system. The immune system contains molecules called antibodies that bind to, or recognise, very specific chemical and biological structures. This property of antibodies is exploited in order to create antibodies that create a visual signal (such as a colour change or other form of labelling) that identifies when specific binding occurs. A wide variety of tests are available that contain antibodies that specifically recognise certain biological agents, even high risk biological warfare agents, and produce a colour reaction that indicates the present of that agent in the sample tested. These kinds of tests are rapid, some producing results within minutes to hours.</p>
+                  <p><em>Polymerase Chain Reaction</em></p>
+                  <p>Polymerase Chain Reaction (or PCR) is the most recently developed testing method of the three examples provided here. Polymerase Chain Reaction is a method that allows specific DNA or RNA from a sample to be identified. It is considered to be the most rapid, reliable and accurate method of detecting biological agents at present and has revolutionised biological agent testing. The methodology uses specially devised DNA and RNA sequences to identify a target DNA or RNA sequence in a sample and selectively amplify, or duplicate, that sequence. By selecting out and duplicating only matching sequences (such as anthrax, plague or smallpox sequences) from a sample, PCR greatly increases the ability to detect even miniscule amounts of biological agent in a sample. The duplicated DNA or RNA in the final specimen can then be used for further testing and characterisation. PCR testing is able to yield results in 1-2 hours under ideal conditions with almost perfect accuracy. Coupled with PCR, subsequent genetic sequencing and phylogenetic studies can inform the evolution of a pathogen over time and geography, and characteristics which determine the virulence of the organism can be understood.</p>
+                  <p><strong>Questions:</strong></p>
+                  <ul>
+                  <li>Reflect on the differences in requirements between the testing methods discussed. Which do you think is the ideal method for detecting biological agents?</li>
+                  <li>How feasible do you think it is to develop a widespread testing that could provide early warning of a biological agent attack, or biosecurity event?</li>
+                  </ul>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"2.5","Pandemic chapter 2","Video","01:57",117,"Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/156016","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9757314/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9757314/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.6","What are outbreaks, epidemics and pandemics?","Video","03:11",191,"Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/156017","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9768369/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9768369/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.7","How do epidemiologists identify and investigate outbreaks","Article","","","Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175756","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>In this article, you will learn about different types of outbreaks, common outbreak patterns and we will look briefly at how epidemiologists identify and investigate outbreaks.</p>
+                  <p>Epidemiologists and public health physicians talk about three types of outbreaks.&#160; The first type is a <strong>common source outbreak</strong>. Common source outbreaks are outbreaks that start when a contaminant or infectious organism is distributed from a single source to a group of people. This distribution could be natural, caused by humans unintentionally, or intentionally caused by humans (bioterrorism). When the common source outbreak is due to illness in a group of people that had direct exposure to the same source of contamination in a short period of time, then it&#8217;s called a <strong>point source outbreak</strong>. If the source of exposure continues or occurs again and again after intervals of time, then you can have a <strong>continuous </strong>or <strong>intermittent common source outbreak</strong>.</p>
+                  <p><strong>Propagated outbreaks</strong> are when the infectious agent can be transmitted from one person to another. The original source might be a point source, but the outbreak can grow into an epidemic because the original infection passes from one person to another.</p>
+                  <p>Outbreaks can start in many different ways. A person can be exposed to a food-borne pathogen through eating in a restaurant or a food they purchased at the supermarket for example. A <strong>mosquito-borne infection</strong> can enter mosquito populations and then be transmitted to humans when the moquitoes bite them. The speed at which a disease moves through a group of people depends on a number of factors. These factors might include, how quickly the infectious organism causes symptoms following the infectious exposure, what stage transmission to others occurs, the nature of the exposure event that causes transmission, as well as how immune to the infection individual people are. All of these factors can lead to very different patterns.</p>
+                  <p>Outbreaks are identified through <strong>public health surveillance</strong> and there are local, regional, national and international systems in which outbreaks are monitored and managed. Generally, public health surveillance is the continuous, systematic collection, analysis and interpretation of health-related data needed for the planning, implementation, and evaluation of public health practice. There are surveillance systems operated by health departments and international organisations for identifying outbreaks. Outbreaks can be identified by alert members of the public, doctors who see unusual patterns of patients as well as through organised surveillance systems that rely on information being continuously reported, collected and analysed to identify unusual occurrence of illness.</p>
+                  <p>The first step in an outbreak investigation is to <strong>confirm the outbreak</strong>. This usually involves talking to the doctors who diagnosed the disease and the patients, and looking for common features between each person that might suggest a connection. The next step is to <strong>confirm the diagnosis</strong> which often requires laboratory confirmation of the infection.</p>
+                  <p>Other steps involve defining what it means to be a case in the outbreak (the <strong>case definition</strong>), identifying other cases, gathering data, analysing the data. Deciding on <strong>control measures</strong> for the outbreak is another aspect. Sometimes a scientific <strong>epidemiological study </strong>is conducted to obtain statistical evidence of the causes of the outbreak. The outbreak investigation would usually be managed by local health officials that might include public health physicians or epidemiologists. Larger outbreaks might need to be managed at state, national or even international level. <strong>Communication</strong> between officials and the public is an important aspect of outbreak investigations.</p>
+                  <p><strong>After reading this article, discuss the answers to the following questions in the comments section below:  </strong></p>
+                  <p>Can you find three other examples of point source outbreaks? Can you find three examples of propagated outbreaks? Why do you think these are each a type of outbreak?</p>
+                  <p>Ask yourself these questions:</p>
+                  <ul>
+                  <li>When and where did the outbreak start?</li>
+                  <li>How did they know these things?</li>
+                  <li>What would have been the earliest signs that an outbreak was occurring?</li>
+                  </ul>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"2.8","Steps of outbreak investigation","Video","02:38",158,"Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175757","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9768400/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9768400/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.9","Pox viruses - a multilayered biosecurity challenge","Article","","","Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175758","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p><strong>Monkeypox &#8211; what&#8217;s in a name? </strong></p>
+                  
+                  <p>In this article, you will learn about the disease smallpox, and the virus that causes it. You will see that there are many viruses that are related to smallpox and that many of these occur in animals and can be spread to humans. You will also learn about zoonotic diseases. There are many fascinating, and worrying, aspects of smallpox and its virus relatives.</p>
+                  
+                  <p><strong>Smallpox </strong>was a human disease that has been eradicated from human populations. This has been one of the greatest global public health successes. It was achieved through immunisation. Smallpox was a horrendous and devastating disease. It was caused by the variola virus. The variola virus comes from a family of viruses called the Poxviridae. Even though it&#8217;s been eradicated, there are some stocks of viral specimens kept by some countries.&#160;</p>
+                  
+                  <p>Infection by smallpox started with a strong fever and tiredness. The disease then progressed to a rash which was mainly on the face, arms and legs. The rash turned into liquid and then pus-filled sores. These eventually dried up and fell off, leaving scarring. It killed as many as 30% of people who were infected &#8211; that is, it had a case fatality rate of 30%, which is very high compared with most infectious diseases.</p>
+                  
+                  <p>Interestingly, the last human case of the disease was the result of a laboratory accident in 1978 in England, which led to the virus being accidentally released. The virus was declared eradicated in 1979.</p>
+                  
+                  <p><strong>Pox viruses</strong> related to the smallpox virus have long circulated in animal populations. Examples are cowpox which occurs in cattle and monkeypox which occurs in monkeys. In fact, cowpox was used for the original smallpox vaccine by Edward Jenner in 1796. Since smallpox was eradicated, several outbreaks of animal pox have occurred in humans through zoonotic transmission. Zoonotic diseases are diseases that can be transmitted from animals to humans.</p>
+                  
+                  <p>Because smallpox was eradicated, humans no longer receive the smallpox vaccine. The vaccine may have prevented some of the cases of animal pox infections that now occur in humans.</p>
+                  
+                  <p><strong>Monkeypox</strong> is a virus that is closely related to smallpox, but it occurs in monkeys. There are some important aspects of zoonotic diseases that are highlighted by the example of monkeypox. Humans can be infected by monkeypox, and it can cause a severe illness similar to smallpox-like infection.</p>
+                  
+                  <p>A resurgence in monkeypox virus infections in humans has been identified in the Democratic Republic of Congo in Africa. This resurgence has occurred despite taking into account the growth in the country&#8217;s population size. Exposure to the virus often comes from hunting monkeys. One reason people are more susceptible to the disease now is that they are no longer being vaccinated against smallpox. The smallpox vaccine prevents 81% of monkeypox infections in those who are vaccinated. This is called cross-protection.</p>
+                  
+                  <p>You might ask why smallpox vaccine is no longer used to prevent these monkeypox and other zoonotic pox infections? Unfortunately, the smallpox vaccine, in rare cases, can cause serious, and in even rarer cases, life threating reactions. This risk is considered too great to allow routine use of the vaccine.</p>
+                  
+                  <p>Another feature of many viruses that is of great concern is that they constantly change because of genetic evolution. That means that new patterns of disease from existing viruses can occur at any time. There is concern that this is happening to animal pox viruses.</p>
+                  
+                  <p><strong>After reading this article, discuss your answers to the following questions in the comments section below:</strong></p>
+                  
+                  <ol>
+                  <li>What could happen if monkeypox became easily transmitted between humans?</li>
+                  <li>How could we control an outbreak of human to human monkeypox?</li>
+                  </ol>
+                  <p>&#160;</p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"2.10","A new pandemic?","Discussion","","","Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175760","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Suppose you&#8217;re an epidemiologist working in a local health department in your country. You hear a story on the news that there are concerns that there is an outbreak of a serious respiratory disease in a neighbouring country and many people are dying. You share a physical border with that country and people move across the border freely.</p>
+                  <p>A few hours later, a health official from the national health department sends you an email requesting you join an important teleconference in one hour&#8217;s time. You will be joined on the teleconference by epidemiologists in all other local health departments.</p>
+                  <p>At the teleconference, the health official tells you that people in the neighbouring country have tested positive for influenza. However, the national public health laboratory of that country cannot identify what particular strain of influenza it is.</p>
+                  <p>A few hours later, you get a telephone call from the main children&#8217;s hospital in your area that five children presented in the last week with a serious pneumonia. One of them has died.</p>
+                  <p>You hear a rumour that one of the children is the child of a senior virologist in your local public health microbiology laboratory.</p>
+                  <p><strong>Questions:</strong></p>
+                  <ul>
+                  <li>Do you think the children at your local hospital are part of an outbreak?</li>
+                  <li>Do you think the children at your local hospital are part of the outbreak occurring in the neighbouring country?</li>
+                  <li>How would you identify if they were part of the same outbreak?</li>
+                  <li>What would be your next steps?</li>
+                  <li>How would you investigate the outbreak?</li>
+                  <li>How would you control the outbreak?</li>
+                  <li>What other types of information would you want to know?</li>
+                  </ul>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"2.11","What have we learnt","Article","","","Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/156026","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>In this week, we learned about the basic features of biosecurity and bioterrorism. We learned that there is a wide range of biological agents that could potentially become a biosecurity problem, or be used as a bioterrorism agent. Clinicians and public health practitioners utilise modern molecular biological methods to detect biological agents, enabling them to develop plans for improving biosecurity or responding to bioterrorism events.</p>
+                  
+                  <p>We have learnt about what outbreaks are, how outbreaks are identified and how health authorities investigate the cause of an outbreak. You have been introduced to the basic concepts of epidemiology, which is about understanding the patterns and causes of disease in human (and animal) populations.</p>
+                  
+                  <p>Finally, we introduced bioterrorism-related outbreaks and how these may differ from other outbreaks.</p>
+                  
+                  <p>Feel free to share your own experiences with outbreaks and any thoughts and ideas you have about what a bioterrorism  outbreak might look like. You could also discuss some of the special considerations that are required when investigating an outbreak caused by bioterrorism.</p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"2.12","Preparing for Week 3","Article","","","Week 2","2017-05-01","1 May","Week 2: Introduction to outbreaks, epidemics and pandemics","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/156027","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Focus in more detail on bioterrorism related outbreaks</p>
+                  
+                  <p>In Week 3, we focus in more detail on bioterrorism related outbreaks and how they are identified. We look at an important example of bioterrorism that occurred in Russia many years ago. We will also introduce you to other types of outbreaks that can occur when bioterrorism agents are officially handled by government and defense authorities.</p>
+                  
+                  <p>Suppose a government authority is conducting research to defend against bioterrorism or to create the capability to engage in biological warfare? What might be some of the risks associated with that?</p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"3.1","Pandemic chapter 3","Video","03:02",182,"Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175761","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9757527/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9757527/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.2","What is health surveillance and health intelligence?","Article","","","Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175909","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Health surveillance and health intelligence are critical components of modern health systems, but they are particularly useful in bioterrorism and biosecurity.</p>
+                  
+                  <p>Health surveillance refers to the deliberate process of collecting epidemiological and other data of relevance from health systems, populations, media and various other informal sources. 
+                  Health intelligence is the interpretation, analysis, processing and generation of useful products that assist individuals such as public health practitioners, clinicians, responders, decision and policy makers and wider stakeholders in making sense of a health surveillance data, and using it to better achieve goals.</p>
+                  
+                  <p>Health surveillance is conducted in a systematic way, according to a well-defined plan linked with a clear need to collect the data in question. It can rely on automated systems for data collection, or be reliant on meticulous collection by individuals and involve significant expenditure of resources. </p>
+                  
+                  <p>Traditional data-points collected by health surveillance activities are:</p>
+                  <ul>
+                  <li>The number of cases of disease meeting a diagnostic case definition</li>
+                  <li>The number of individuals who have received certain interventions</li>
+                  <li>The types and numbers of health resources being utilised, including their depletion</li>
+                  <li>The occurrence of various sentinel or critical clinical events</li>
+                  <li>The occurrence of certain clinical complications</li>
+                  <li>The number of, and details of, deaths related to a particular disease</li>
+                  <li>The time course and geographic distribution of collected data</li>
+                  </ul>
+                  
+                  <p>For example syndromic surveillance is a form of health surveillance that uses loose case definitions of disease &#8211; such as upper-respiratory tract symptoms occurring with fever and other signs &#8211; to identify cases of concern or interest.</p>
+                  
+                  <p>Health intelligence uses health surveillance data to add value and meaning. Health intelligence, like any other intelligence product, is developed through a systematic process that involves cyclic review of critical information rather than the production of &#8220;one off&#8221; or standalone pieces of information. This process is called the intelligence cycle.</p>
+                  
+                  <p>The key steps of the intelligence cycle are:</p>
+                  <ul>1. Planning and direction</ul>
+                  <ul>2. Collection</ul>
+                  <ul>3. Processing</ul>
+                  <ul>4. Analysis and production</ul>
+                  <ul>5. Dissemination</ul>
+                  
+                  <p>While collection of health surveillance data generally involves the combined work of many hundreds and potentially thousands of individuals, the generation of health intelligence product is usually conducted by a smaller group of subject matter experts. This allows individuals with specialised knowledge to make a determination on the quality, veracity and certainty of the health surveillance information.</p>
+                  
+                  <p>Processing and analysis of health surveillance data is a specialised task undertaken across a wide range of organisations. Health intelligence activities in a military organisation may, for example, be focussed on the assessment of the risks to deploying personnel to a remote or tropical location. Health intelligence activities in a major corporation may develop and use health intelligence products to assist in planning and building a major risk facility such as a power station, chemical plant or mine. Health intelligence activities in a state health department may be focussed on assessing the emergence of epidemic diseases, unusual diseases and the day to day operation of a health system. Health intelligence experts, depending on the roles they are undertaking, develop specific expertise in specialised areas as outlined in the examples above and work closely with decision and policy makers to continuously redesign and refine the health surveillance and intelligence structure to improve operation.</p>
+                  
+                  <p>Dissemination of health surveillance and health intelligence product is the final but essential component of the health intelligence cycle. Communication of health intelligence product is at times challenging. Certain organisations &#8211; such as state or federal health departments &#8211; are mandated to collect, process and analyse health information as a part of their support to a population. Communicating unexpected or difficult information to leaders and decision makers is a specialised and important skill, particularly where uncertainties, unknowns and data gaps exist. In communicating health intelligence information to decision makers, the analyst must balance the need to remain impartial and unbiased, with an occasional need to underline the significance of important findings. Triggers for further action &#8211; such as a detailed review, or further investigation - are often incorporated into the health intelligence cycle during the initial planning and review phases.</p>
+                  
+                  <p>Health surveillance and health intelligence are systematic activities that are an essential component of the wider health systems in place to manage public health. They are particularly important in bioterrorism and biosecurity where they are essential components of early warning systems to correctly identify high risk biological events at a point in time where intervention will be effective and harm minimised.</p>
+                  
+                  <p><strong>After reading this article, discuss your answer to the following question in the comments section below:</strong></p>
+                  <ul>
+                  Review some of the health intelligence resources available to public health clinicians online and provided here in the related links section. <p><strong>What do you think some of the difficulties might be in detecting bioterrorism and biosafety events using health intelligence systems?</strong></p>
+                  </ul>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"3.3","Deliberate and accidental events","Article","","","Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175910","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>The burden of infectious disease in the community is significant &#8211; at any one time many individuals in any human population will be experiencing symptoms and exhibiting signs of infectious disease. A key goal of health surveillance is to identify cases of infectious disease as early as possible. Coupled with health intelligence &#8211; the processing, analysis and interpretation of health surveillance data &#8211; health systems then use these data to make decisions on how to adequately manage an infectious disease event. </p>
+                  <p>Given the pre-existing burden of infectious disease, most health systems are designed to be able to manage cases of infectious disease that fall within expected disease types, case incident rates and treatment paradigms. The pre-existing burden of infectious disease in populations around the world is highly variable. Factors such as socio-economic status, access to health care, nutrition, vulnerability factors and the presence of disease vectors (e.g. mosquitoes, herbivorous animals, domesticated animals) or contact with zoonotic disease cycles are important influences of the burden of infectious disease in any population. </p>
+                  <p>The emergence of a new or unexpected infectious disease event &#8211; such as due to a bioterrorism or biosafety event &#8211; can present a health system with significant practical challenges. Recognition of new or unexpected infectious diseases cases can take place at a number of points in a health system. These are:</p>
+                  <ul>
+                  <li>Recognition of an unusual or unexpected disease by front line clinicians</li>
+                  <li>The identification of unusual or unexpected pathogens on routine clinical testing in pathology labs</li>
+                  <li>A sudden increase in clinical cases significantly above the normal burden of infectious disease in a community</li>
+                  <li>An increase in mortality</li>
+                  <li>A change in the utilisation of certain medical resources</li>
+                  </ul>
+                  <p>Often these factors are sufficient for a health system to identify the occurrence of an outbreak, or a new or unexpected disease event. </p>
+                  <p>However, as you might have noticed, there can be a significant delay between the occurrence of infectious disease cases and the recognition through the mechanisms outlined above. For certain high risk biological agents this delay in recognition could result in the disease spreading faster than efforts to prevent, contain and control an outbreak. Equally such detection mechanisms are not able to differentiate between a deliberate and accidental outbreak event. Understanding if an event is accidental or deliberate provides valuable information to scientists, clinicians, and criminal investigators and assists in the identification of likely biological agents that are causing an outbreak in its early phases.</p>
+                  <p>Factors associated with unusual outbreaks, bioterrorism events or biosecurity events are:</p>
+                  <ul>
+                  <li>An unusual case presentation recognised at a front line clinical facility (e.g. clear diagnosis of bioterrorism related disease in an Emergency Department)</li>
+                  <li>Higher morbidity or mortality than expected for a particular disease</li>
+                  <li>Disease occurring outside of geographic areas where the disease is normally found, particularly in the absence of a vector that is normally required for infection</li>
+                  <li>A distribution of cases in a &#8220;downwind&#8221; pattern</li>
+                  <li>Simultaneous epidemics of the same disease widely separated, and without clear linkage between them</li>
+                  <li>Serial epidemics, without clear linkage between them</li>
+                  <li>High attack rates in normally resistant populations (e.g. high attack rates in young adults)</li>
+                  <li>Disease occurring in humans before animals (reverse spread), particularly where the disease naturally occurs in animals before humans</li>
+                  <li>Direct evidence, admission/confession or a release event (e.g. explosion)</li>
+                  </ul>
+                  <p>A number of researchers have combined these and other factors into sophisticated scoring systems (see related links) that attempt to provide at the earliest stage in an unusual or unexpected infectious disease event whether it is deliberate or natural. Coupled with health surveillance, these scoring systems can improve the accuracy of health intelligence processes and potentially provide additional early warning to decision makers, first responders and health systems.</p>
+                  <p><strong>After reading this article, discuss your answer to the following question in the comments section below:</strong></p>
+                  <ul>
+                  Why do you think it is so difficult to differentiate between disease caused by high risk biological agent events in individuals, compared with disease caused by seasonal outbreaks or other common infectious diseases?
+                  </ul>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"3.4","Sverdlovsk anthrax outbreak 1979 - the outbreak","Video","06:52",412,"Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175911","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9769236/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9769236/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.5","Sverdlovsk anthrax outbreak 1979 - outbreak detection","Video","02:30",150,"Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175912","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9769346/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9769346/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.6","Sverdlovsk anthrax outbreak 1979 - outbreak investigation","Video","06:43",403,"Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175913","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9769388/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9769388/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.7","Sverdlovsk anthrax outbreak 1979 - the impact","Video","04:10",250,"Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175914","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9769421/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9769421/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.8","Sverdlovsk Anthrax outbreak","Discussion","","","Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175915","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p><strong>Imagine you are a clinician at a local hospital in your area. Unknown to you a hunting tour group visiting the local area shot and killed a number of herbivorous larger animals (deer and mountain goat) in a remotely located forest area. They skinned, and prepared the meat from the game and prepared the hides while camping in the forested area. They also consumed some of the meat from the kill.</strong></p>
+                  <p>A middle aged man presents to your local hospital emergency room complaining of chest pain, shortness of breath and has a primary clinical problem of respiratory distress and poor oxygenation. His vital signs are consistent with sepsis (overwhelming infection). Over the course of a few hours he deteriorates and is admitted to the high dependency unit for care. Later that day, while waiting for transportation to a major treatment facility, he suddenly deteriorates and dies. The intensive care clinician and you suspect he was suffering from severe acute pneumonia. The exact diagnosis, however, is unclear.</p>
+                  <p>Over the course of the following 12 hours, four more young and middle aged men &#8211; all of whom were from the hunting party &#8211; present to the hospital with various degrees of respiratory illness.</p>
+                  <ul>
+                  <li>Reflect on how many cases of illness would have to occur before you would be concerned that an unusual clinical event is occurring in your area? How many presenting cases do you think this would be?</li>
+                  <li>What features of the clinical cases would make you immediately suspicious that this was an unusual infection?</li>
+                  <li>How long do you think it would take to reach a definitive, or beyond doubt, diagnosis?</li>
+                  <li>Do you think additional resources would be required to manage this kind of event in the average hospital? If so, what kinds of resources might be required?</li>
+                  <li>What additional supports might you be able to call on in your local area to assist clinicians in a situation where an unusual or potentially deliberate biological event has taken place?</li>
+                  </ul>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"3.9","What we have learnt","Article","","","Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175916","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p><strong>Health surveillance and health intelligence</strong></p>
+                  <p>In this week we introduced health surveillance and health intelligence as important tools for investigating outbreaks. The importance of using health surveillance and health intelligence data for determining if an outbreak is deliberate or naturally occurring was explored. We then outlined an historical example of a non-accidental outbreak of a high risk pathogen at the Sverdlovsk military facility, its features, recognition, investigation and important features of the event. We then discussed the importance of this event to the bioterrorism and biosecurity academic and professional community.</p>
+                  <p><strong>Feel free to share your reflections and views on deliberate and non-deliberate biological events and the risks posed by high risk pathogens.</strong></p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"3.10","Preparing for Week 4","Article","","","Week 3","2017-05-08","8 May","Week 3: Bioterrorism outbreaks","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175917","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p><strong>Important aspects of management of outbreaks</strong></p>
+                  <p>In Week 4 we will introduce important aspects of management of outbreaks, firstly by touching again on the epidemiology of outbreaks, and then exploring what kinds of personal protective equipment and risk controls are required to work within a biological threat environment and the frameworks that first responders work with to operate in an outbreak. Finally we discuss some of the policy, ethical and governance issues related to high risk biological agents.</p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"4.1","Pandemic chapter 4","Video","03:31",211,"Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/169277","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9757758/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9757758/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.2","Epidemiology of outbreaks","Video","03:57",237,"Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/169279","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9769512/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9769512/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.3","Specific public health control measures for outbreaks","Article","","","Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/169276","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>In this article, you will learn about how public health officials attempt to control and contain outbreaks &#8211; the kinds of interventions and policy measures that can be introduced to limit the spread of a disease. There are two main aspects to outbreak control &#8211; limiting the impact of an active outbreak and preventing future outbreaks.</p>
+                  
+                  <p>Regardless of whether an outbreak was caused naturally, through a laboratory accident, or through intentional dissemination of an infectious agent, the public health response would initially attempt to contain the outbreak and prevent further spread. There would need to be strong involvement of medical and other health services to treat the people who are infected, and sometimes to administer preventive measures to people who may have had contact with a case, such as vaccination. Public health authorities play an important role in these health service activities because hospitals and clinics need to understand appropriate measures for preventing infection of their own personnel and of other patients. Competent and well managed microbiology laboratory capabilities to diagnose and understand the microbiology of infectious diseases are important. Biocontainment laboratory facilities may be needed in the case of bioterrorism.</p>
+                  
+                  <p>Active public health surveillance may need to be introduced to facilitate rapid identification of cases and quick delivery of treatment to minimise morbidity and mortality. Information would need to be provided to doctors and health services so that they understand how to identify the disease and what to do if they suspect a case of the disease. Once cases are identified, public health personnel may need to step in and identify contacts of cases so they can be followed up in case they also have the disease, or so that preventive measures can be administered.</p>
+                  
+                  <p><strong>An important step is to prevent exposure to the infectious agent</strong>. For diseases that are transmitted from person to person, this could be done through isolating patients with the disease at home or in a hospital or clinic. <a href=""https://www.flickr.com/photos/monado/5322817686""> Separating infected patients from patients in health facilities for other reasons (cohorting) is another strategy. People who have been exposed to the disease, but that do not have symptoms, can be quarantined to prevent further spread in case they do become unwell</a>. Remember, some diseases are infectious before the patient has symptoms, so this needs to be considered in planning the response. Quarantine can be at home (usually) or in an institution.</p>
+                  
+                  <p>The design of health facilities is also important in preventing further spread. Hospitals can have negative pressure rooms that prevent contaminated air from escaping and being circulated to adjacent areas. Isolation wards can ensure infected patients are kept separate from other vulnerable people. Isolating people who may be infected is an important first step when they enter a health facility, even before the infection is confirmed. <a href=""https://www.flickr.com/photos/statephotos/15105501704"">However, it is also important to prevent these people from being exposed to people with confirmed infections in case they do not have the disease.</a></p>
+                  
+                  <p>Communicating with and educating the population at risk of infection about personal preventive measures and personal hygiene is important, depending on the disease. Hand washing is a simple and effective measure to reduce the risk of infection by many contagious diseases. Access to clean water, well maintained and hygienic toilets, bathing facilities and hand washing facilities are essential to prevent outbreaks and to prevent outbreaks spreading, particularly for waterborne or foodborne diseases like cholera. Water, sanitation and hygiene is often abbreviated as <a href=""https://www.flickr.com/photos/statephotos/15105501704"">WASH</a> to make it easy to remember what is required when confronting or preventing an outbreak emergency. <a href=""https://commons.wikimedia.org/wiki/File:Flooded_urban_poor_area_in_Manila_(4046572382).jpg"">WASH is important in other types of emergencies, because disasters of any kind can create an environment for infectious diseases to take hold.</a></p>
+                  
+                  <p>For vector borne diseases such as yellow fever, Zika, and dengue fever, controlling the vector or animal reservoir may be an important measure. During the Zika outbreak in South America that started in 2015, spraying to control mosquitoes was introduced.</p>
+                  
+                  <p>If time allows and a safe and suitable vaccine is available and affordable, vaccination against the disease is an important option. The outbreak of yellow fever in 2016 in Angola and the Democratic Republic of the Congo in Africa has so far been successfully controlled through mass vaccination campaigns. Prophylactic pharmaceutical measures may be another option, either before or after exposure.</p>
+                  
+                  <p>If the outbreak is intentional, some aspects of the control measures may be very different. Police or military services will also need to be involved. They may need to undertake a criminal response to identify the perpetrator or perpetrators of the event and bring them to justice. They cannot work in isolation though - they will need to coordinate their activities with health and medical authorities to ensure the safety of their own personnel and that of people in the community.</p>
+                  
+                  <p>Other things to consider are border control measures, using vaccines or pharmaceuticals that have been stockpiled in case of an outbreak, and notifying the situation to the World Health Organization under the International Health Regulation.</p>
+                  
+                  <p>In the longer term, it is important to study an outbreak and learn lessons from it to prevent future outbreaks. This might lead to new disease prevention policies, maintenance or improvement of surveillance systems, maintenance of stockpiles, development of new drugs or vaccines, and improved microbiology facilities.</p>
+                  
+                  <p>After watching this video, in the comments section below discuss your answer to the following question:</p>
+                  <p><strong>Can you think of some ways that controlling bioterrorism outbreaks might differ from controlling naturally occurring or unintentional outbreaks?</strong></p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"4.4","Bioterrorism and biosecurity quiz","Quiz","","","Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/167676","[]"
+"4.5","Emergency response to biosecurity and terrorism events","Video","04:52",292,"Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175918","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9769618/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9769618/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.6","Pandemic chapter 5","Video","02:51",171,"Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/176330","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9757782/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9757782/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.7","Policy and ethical issues","Video","04:40",280,"Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/176331","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/9769697/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/9769697/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.8","Governance of biological threats","Article","","","Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/176332","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>The governance of high risk biological agents and Dual Research of Concern technologies and activities has been a key priority of governments, research institutes and concerned individuals.</p>
+                  <p>The main framework for governance of biological agents is the Biological Weapons Convention, originally signed in 1972 and now with 178 nations party. The Biological Weapons Convention was proposed after prolonged international efforts to improve on the provisions of the first international agreement controlling biological agents &#8211; the Geneva Protocol of 1925, also known as the Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or other Gases, and of Bacteriological Methods of Warfare. While the Geneva Protocol is accepted as a general prohibition of the use of biological weapons, the protocol was silent on the key issues of the production, storage, transport of biological weapons. These shortcomings were one of the main reasons for the development of the 1972 Biological Weapons Convention.</p>
+                  <p>The Biological Weapons Convention has 10 main articles. They are:</p>
+                  <ul>
+                  <li>Article I: Never under any circumstances to acquire or retain biological weapons.</li>
+                  <li>Article II: To destroy or divert to peaceful purposes biological weapons and associated resources prior to joining.</li>
+                  <li>Article III: Not to transfer, or in any way assist, encourage or induce anyone else to acquire or retain biological weapons.</li>
+                  <li>Article IV: To take any national measures necessary to implement the provisions of the BWC domestically.</li>
+                  <li>Article V: To consult bilaterally and multilaterally to solve any problems with the implementation of the BWC.</li>
+                  <li>Article VI: To request the UN Security Council to investigate alleged breaches of the BWC and to comply with its subsequent decisions.</li>
+                  <li>Article VII: To assist States which have been exposed to a danger as a result of a violation of the BWC.</li>
+                  <li>Article X: To do all of the above in a way that encourages the peaceful uses of biological science and technology.</li>
+                  </ul>
+                  <p>Compared to the 1993 Chemical Weapons Convention, the 1972 Biological Weapons Convention has been criticised for not having a verification mechanism included. Through the 1990s significant efforts were undertaken to introduce some form of national verification mechanism. Termed Confidence Building Measures (CBM), yearly reports are submitted by party states providing an assessment of compliance with the provisions of the convention and outlining any activities that could fall outside of the provisions, and measures taken to ensure compliance. Due to the voluntary status of CBM submissions, only a minority of nations routinely submit these reports.</p>
+                  <p>In addition to the Biological Weapons Convention, a wide range of other governance and regulatory measures have been implemented either internationally or my individual nation states or regional blocs. These include legislative instruments that control the import and export of key technologies required to undertake biological weapon development, codes of practice, compliance and assurance frameworks, population and workplace health and safety legislation, scientific codes of conduct, ethical frameworks and wider policies prohibiting the development of weapons of mass destruction or mass effect. Additionally, a key component of the United Nations framework includes robust support of disarmament efforts, training of inspectors, and frameworks for ensuring compliance with both international and national codes.</p>
+                  <p>The recent seventh review of the Biological Weapons Convention, in November 2016 in Geneva was unfortunately not able to reach consensus on new measures designed to strengthen the Biological Weapons Conventions provisions for taking action against breaches, or to cooperate more effectively between nation states in preventing biological weapon development. The persistent difficulties in strengthening the BWC encountered at the review conferences has been the cause of controversy and comment in the biological research community, and has complicated efforts to improve governance of other related activities such as DURC and synthetic biology.</p>
+                  <p><strong>After reading this article, in the comments section below discuss your answer to the following question:</strong></p>
+                  <p>Reflect on the 10 articles of the Biological Weapons Convention. What kind of verification mechanisms do you think would best ensure compliance with the convention?</p><p>
+                  </p><p/>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"4.9","Conclusion","Article","","","Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/175025","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Congratulations on completing the Biosecurity and Bioterrorism: Public Health Dimensions course! It has been a pleasure having you on board for the journey.</p>
+                  
+                  <p><strong>Get extra benefits, upgrade your course</strong></p>
+                  <p>You can now get extra benefits by upgrading this course, including:</p>
+                  <ul>
+                  <li>**Unlimited access to the course:** Go at your own pace with unlimited access to the course for as long as it exists on FutureLearn.</li>
+                  <li>**A Certificate of Achievement:** To help you demonstrate your learning we&#8217;ll send you a Certificate of Achievement when you become eligible.</li></ul>
+                  <p><a href=""https://www.futurelearn.com/courses/biosecurity-terrorism/1/upgrade"">Find out more on upgrading here</a></p>
+                  <p/>
+                  
+                  <p>We would love for you to comment on the course; the parts you liked, and how this improved your understanding of this important subject area either on the FutureLearn site, Twitter, Facebook , or directly by email.</p>
+                  
+                  <p><a href=""https://sphcm.med.unsw.edu.au/"">The School of Public Health and Community Medicine (SPHCM) </a>at the UNSW Sydney is a leading international school for the related disciplines of public health, health management and community medicine, with an extensive alumni network in Australia, the Asia-Pacific and beyond. Many of our alumni are leaders in the health sector, and these relationships place the School at the forefront of translation of research into practice. We seek to promote health, prevent disease and strengthen health systems in Australia and the region, and continually work at the interface of research translation.</p>
+                  
+                  <p>The School is committed to excellence in research, learning and teaching in public health and health services. <a href=""https://sphcm.med.unsw.edu.au/"">SPHCM </a>researchers and teachers bring experience from multiple disciplines and have experience in local, national, and international settings. Teaching at the school is strongly influenced by our research and our research informs our teaching; both contribute directly to improving the design and delivery of health care programs and services in Australia and internationally.</p>
+                  
+                  <p><a href=""https://sphcm.med.unsw.edu.au/"">SPHCM </a>has a national and international profile in its core flagship areas of research:</p>
+                  <ul>	
+                  <li>Global Health</li>
+                  <li>Infectious Diseases</li>
+                  <li>Primary Health Care</li>
+                  <li>Indigenous Health</li>
+                  <li>Social Research</li>
+                  </ul>
+                  
+                  <p><a href=""https://sphcm.med.unsw.edu.au/"">SPHCM </a>also offers a range of courses, supported by a range of local, national and international experts with direct operational experience, deeply exploring the topics and concepts touched on in this course and more, such as:</p>
+                  <ul>	
+                  <li>Bioterrorism and Health Intelligence</li>
+                  <li>Health Aspects of Crises Emergencies and Disasters</li>
+                  <li>Master of Infectious Disease Intelligence</li>
+                  <li>Master of Public Health &#8211; Public Security</li>
+                  </ul>
+                  
+                  <p>We offer <a href=""https://www.futurelearn.com/partners/new-south-wales""> programs</a> that can be tailored to your needs across a wide range of other disciplines.
+                  We would love for you to comment on the course; the parts you liked, and how this improved your understanding of this important subject area either on the <a href=""https://www.futurelearn.com/courses/biosecurity-terrorism/1/todo/7283""> FutureLearn site</a>, <a href=""https://twitter.com/futurelearn?lang=en""> Twitter</a>, <a href=""https://www.facebook.com/FutureLearn/""> Facebook </a>, or directly by email.</p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"4.10","Acknowledgements","Article","","","Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/181956","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>We would finally like to acknowledge the support and efforts of Mr Mel Chavez and the UNSW Sydney Portfolio of the Pro-Vice-Chancellor (Education) for their extensive support. We also acknowledge efforts of Mr Brian Landrigan and Mr Carlos Dominguez for the extensive audiovisual and video production technical support.</p>
+                  
+                  <p>We also would like to acknowledge the efforts and expertise of Professor Raina MacIntyre, Associate Professor David Heslop, Dr David Muscatello, Dr Mahfuz Ashraf and your mentors Xin (Jessie) Chen and Chau Bui.</p>
+                  
+                  <p>We would also like to thank Ms Vinita Chanan for her generous support during the development of the Pandemic short film series, and to Paper Moose productions.</p>
+                  <div class=""body_copyright"">
+                    <p>&#169; UNSW Sydney</p>
+                  </div>
+                </div>
+                ]"
+"4.11","Post-course survey","Exercise","","","Week 4","2017-05-15","15 May","Week 4: Contemporary biosecurity and bioterrorism strategic management, ethi...","https://www.futurelearn.com/courses/biosecurity-terrorism/1/steps/182933","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Congratulations, you made it! We hope that throughout this course, you have been able to expand your understanding of public health and the wider responses to high-risk biological agent events, epidemics and bioterrorism.</p>
+                  
+                  <p>We have enjoyed putting this course together and have learnt so much as well! We would love to hear what you thought about this course &#8211; either positive or otherwise! Your feedback will help us improve the course for the future, and we value your opinions. Please take a few minutes to complete the post-course survey.</p>
+                  
+                  <p><strong>We are aware that some users of iPads and iPhones are experiencing issues with accessing surveys in the course. We are currently investigating this issue. The surveys should however work on android tablets, laptops or personal computers.</strong></p>
+                  
+                  <p><strong>If you experience any technical difficulties in accessing the activity, please send us a screen shot, description of your operating system (OS), web browser and steps taken to MOOCs@unsw.edu.au</strong></p>
+                  
+                  <p>Select the <strong>Launch</strong> button below to begin.</p>
+                </div>
+                ]"

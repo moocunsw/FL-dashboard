@@ -1,0 +1,1049 @@
+"step_number","title","type","duration","duration_secs","week_label","week_datetime","week_date","week_heading","step_url","step_content"
+"1.1","The ideas behind the course","Video","01:52",112,"Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78619","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720065/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720065/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.2","The flow of the course","Video","04:44",284,"Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79939","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720073/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720073/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.3","It’s all in ‘the vibe’","Discussion","","","Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/72806","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>60 years of classic textbooks defined the traditional Engineering Mechanics course. They decided what should be in them and how to teach it. They still do.</p>
+                  
+                  <p>Online courses like this offer new ways of presenting Engineering Mechanics, and we&#8217;ve freed ourselves from the traditional course structure. So as well as Engineering Mechanics we have guest appearances from material science, mechanics of solids, and fluid mechanics - whatever is needed for supporting design activities, and for developing Engineers&#8217; Eyes.
+                  Engineering Mechanics is based on mathematics. It&#8217;s an essential part of its magic. But we&#8217;ll keep the mathematics simple. You&#8217;ll need basic algebra and trigonometry. There is no calculus.</p>
+                  
+                  <p>We&#8217;ll live in the moment. But you can also use this course to prepare for future formal courses, or review what you have learnt in the past.</p>
+                  
+                  <p>The full suite of activities would take up to four hours a week, for seven weeks. But you can pick and choose which parts you would like to do.</p>
+                  
+                  <p><strong>In this activity, we would like to know about your reactions so far. For example: what segments appeal to you and why; what do you want to get from this course?</strong></p>
+                  
+                  <p>Please post your responses in the discussion below.  You can Like and reply to comments posted by others and follow other like-minded learners you spot. This will make it easy for you to see their comments on future steps by filtering the discussion.</p>
+                </div>
+                ]"
+"1.4","Check your understanding","Quiz","","","Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/69930","[]"
+"1.5","Experiments: static and dynamic loads","Video","06:55",415,"Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79940","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720162/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720162/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.6","What did you notice?","Discussion","","","Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/72807","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Did you see how we split Engineering Mechanics into &#8216;Statics&#8217; and &#8216;Dynamics&#8217;. Textbooks generally come in two separate volumes, one for each.</p>
+                  
+                  <p>There are those who say that it&#8217;s all Dynamics really, and what we call statics is just Dynamics where the accelerations are all zero. But we think Statics and Dynamics are different enough to justify the split.</p>
+                  
+                  <p>But are Statics and Dynamics so clearly differentiated from one another?</p>
+                  
+                  <p>There are situations where accelerations definitely exist, but where we can ignore them for all practical purposes. As an extreme example, there are accelerations when the bands creep, but these miniscule accelerations don&#8217;t affect the forces significantly. This is what you might call quasi-static, that is, we know there are accelerations but we can still treat the situation as though it were static.</p>
+                  
+                  <p>If you attempted the experiment, remember to take a photo and upload it to our <a href=""http://padlet.com/ThroughEngineersEyes/Week1Experiment"" title=""Through Engineers' Eyes Padlet wall"">Through Engineers&#8217; Eyes Padlet wall</a>. You can include a link to your photo in the discussion for this step (click on your post on the Padlet wall and then copy the web address).</p>
+                  
+                  <p>Did you work out why a chain of bands produces a larger deflection than a single band?
+                  What else did you notice?</p>
+                  
+                  <p>Did you try any of the experiments yourself? We&#8217;d like to know which, if any, you got your hands on. If you did do some, what did you find? What would you recommend your colleagues to do?</p>
+                  
+                  <p>By now you will have seen how simple experiments can give you insights. After all, physical reality is physical reality, however you look at it. But is it worth the effort of doing the experiments yourself?</p>
+                </div>
+                ]"
+"1.7","Check your understanding","Quiz","","","Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/69931","[]"
+"1.8","Analysis: static and dynamic loads","Video","04:15",255,"Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79941","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720177/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720177/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.9","Retro tutorial #1","Article","","","Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70070","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>There&#8217;s no better way to consolidate learning in Engineering Mechanics than quietly working through problems using pencil and paper (that&#8217;s why we call this a &#8216;Retro Tutorial&#8217;). It can be satisfying too.</p>
+                  
+                  <p>&#8216;Retro&#8217; means a modern version of an older style, like a modern car based on a classic from a past era. Tutorial means questions for you to practise your new skills on. You will do them on paper with a pencil and a scientific calculator.</p>
+                  
+                  <p>This tutorial is mainly about springs. If you do all the questions it might take <strong>45 minutes</strong>.</p>
+                  
+                  <p><strong>Download the tutorial in the Downloads section below and work through the questions.</strong>
+                  It includes solutions. It&#8217;s probably best if you try the problem first before looking at the solution. We find that those who look at the solution and decide &#8220;I could have done that&#8221; are often kidding themselves.</p>
+                </div>
+                ]"
+"1.10","Check your understanding","Quiz","","","Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/69934","[]"
+"1.11","Through Engineers' Eyes","Video","01:59",119,"Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79942","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720188/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720188/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"1.12","Check your understanding","Quiz","","","Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/82160","[]"
+"1.13","Your thoughts so far","Discussion","","","Week 1","2016-04-18","18 Apr","Week 1: A leap of faith","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78620","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>How are you going so far? Tell us your thoughts on Week 1, such as:</p>
+                  <ul>
+                  <li>Do the course objectives make sense?</li>
+                  <li>Does the course structure match the objectives?</li>
+                  <li>Will you do any experiments yourself?</li>
+                  <li>Did you get value from the Retro tutorials?</li>
+                  <li>Is there an engineering glimmer in your eyes?</li>
+                  </ul>
+                </div>
+                ]"
+"2.1","Design for strength and safety","Video","01:18",78,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79944","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720214/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720214/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.2","Experiment: Force transducers","Video","04:56",296,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79945","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720249/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720249/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.3","Experiment: Adding forces","Video","02:50",170,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79946","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720259/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720259/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.4","What did you notice?","Discussion","","","Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78622","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Did you think of the effect of creep when the transducer was calibrated and used? To help keep it under control it would be good to minimise the time between loading up and measuring.</p>
+                  
+                  <p>Measuring the deflection with a rule is tricky too. Was I being hopeful when I suggested that a precision of +/- 1 mm was possible?</p>
+                  
+                  <p>Did it seem odd to have the weight of a &#8220;washer&#8221; as the unit of force? Before SI units were common the unit of force was often the weight of a standard mass. In some places it still is, for example the unit of mass in US customary units is the pound (the pound mass), and the unit of force is the weight of a pound mass (the pound weight). We&#8217;ll have more on weight later.</p>
+                  
+                  <p>Mostly with US customary units the term &#8216;pound&#8217; is used for both mass and weight, leaving you to work out what is meant from the context. This can be confusing but it won&#8217;t affect us much because we&#8217;ll generally use SI units, where the unit of mass is the kilogram and the unit of force is the Newton.</p>
+                  
+                  <p>Your thoughts on this and anything else from the experiments would be welcomed on the discussion for this step.</p>
+                </div>
+                ]"
+"2.5","Check your understanding","Quiz","","","Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/69935","[]"
+"2.6","Analysis: Revealing forces","Video","05:43",343,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79947","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720270/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720270/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.7","Analysis: Adding forces Part 1","Video","04:52",292,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79948","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720273/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720273/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.8","Analysis: Adding forces Part 2","Video","09:46",586,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79949","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6790464/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6790464/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.9","Retro tutorial #2","Article","","","Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78623","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>There&#8217;s no better way to consolidate learning in Engineering Mechanics than quietly working through problems using pencil and paper (that&#8217;s why we call this a &#8216;Retro Tutorial&#8217;).</p>
+                  
+                  <p>This is a fine example of why the retro-tutorials are included. Producing an FBD is a creative activity. You start with a &#8216;real-world&#8217; scenario and you need to end up with an abstraction of it to analyse.</p>
+                  
+                  <p>Drawing an FBD from scratch is so different from selecting a preferred solution from a gallery of options. We&#8217;ll use the backward-looking gallery format to assess what you have learnt, but this forward-looking format is much more like real life.</p>
+                  
+                  <p>So don&#8217;t throw this opportunity away by looking at the solution first! It should only take a moment to sketch the specified FBDs.</p>
+                  
+                  <p>Depending upon your grasp of basic trigonometry you might want to do the revision questions on that topic. But whatever your degree of prior knowledge it would be good to do at least some of the problems on components and resultants.</p>
+                  
+                  <p>This tutorial is in two parts: 1  Free-Body Diagrams and 2  basic trigonometry, with a bonus question at the end.</p>
+                  
+                  <p>The FBD questions are highly recommended. Expect to spend up to <strong>20 minutes</strong>.</p>
+                  
+                  <p>The questions on trigonometry will be revision for some, and, perhaps, less familiar to others. If you are confident in your trigonometry just review them. Otherwise go though them in detail and check out the solutions.  The time to do these will depend on what you already know.</p>
+                  
+                  <p>The bonus question is quick and (I think) fun.</p>
+                  
+                  <p><strong>Download the tutorial in the Downloads section below and work through the questions.</strong> It includes solutions. It&#8217;s probably best if you try the problem first before looking at the solution.</p>
+                </div>
+                ]"
+"2.10","Check your understanding","Quiz","","","Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70064","[]"
+"2.11","Design: Loudspeaker support Part 1 - Setting the scene","Video","03:06",186,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79950","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720287/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720287/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.12","Design: Loudspeaker support Part 2 - Getting the job done","Video","10:12",612,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79951","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720297/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720297/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.13","Check your understanding","Quiz","","","Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/85149","[]"
+"2.14","Through Engineers' Eyes","Video","01:25",85,"Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79956","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720298/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720298/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"2.15","Check your understanding","Quiz","","","Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/82161","[]"
+"2.16","Your thoughts so far","Discussion","","","Week 2","2016-04-25","25 Apr","Week 2: A force to be reckoned with","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78625","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>How are you going so far? Tell us your thoughts on Week 2, such as:</p>
+                  <ul>
+                  <li>Do you get how the three phases - experiment, analysis and design work together to help you develop engineers' eyes?</li>
+                  <li>On reflection, how do the experiments with common household items strike you? </li>
+                  <li>Do you plan to do experiments in future? </li>
+                  <li>Plus any other thoughts that you have.</li>
+                  </ul>
+                </div>
+                ]"
+"3.1","It's so simple, yet we can't analyse it!","Video","04:10",250,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79957","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720621/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720621/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.2","Experiment: Balancing out twisting effects","Video","03:34",214,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79958","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720650/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720650/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.3","Experiments on a rigid object","Video","02:33",153,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79959","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720653/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720653/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.4","Experiment: Pure twist","Video","02:46",166,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79960","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720622/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720622/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.5","What did you notice?","Discussion","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78626","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>The balancing experiment has some hidden features. For example, by pinning the cardboard in its centre its weight doesn&#8217;t come into consideration. Also the vertical distance between the centre hole and the holes for the hangers determines the sensitivity of the system. You could make a series of items to demonstrate this - it wouldn&#8217;t take long.</p>
+                  
+                  <p>There&#8217;s not much to say about the main experiment on the rigid body. But there&#8217;s a lot to learn from analysing it.</p>
+                  
+                  <p>The pure torque generator is elegant (have I said that before? RF)</p>
+                  
+                  <p>As usual, post your thoughts on the discussion.</p>
+                </div>
+                ]"
+"3.6","Check your understanding","Quiz","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70060","[]"
+"3.7","Analysis: The twisting effect of a force","Video","04:00",240,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79961","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720834/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720834/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.8","Analysis: Finding forces in rigid objects","Video","07:35",455,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79962","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6924391/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6924391/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.9","Analysis: Pure twist - the couple","Video","06:58",418,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79963","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720691/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720691/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.10","Analysis: Conventional interactions","Video","02:41",161,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79964","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6720867/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6720867/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.11","Retro-tutorial #3","Article","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78627","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>There&#8217;s no better way to consolidate learning in Engineering Mechanics than quietly working through problems using pencil and paper (that&#8217;s why we call this a &#8216;Retro Tutorial&#8217;).</p>
+                  
+                  <p>This week&#8217;s topics are: Free-Body Diagrams, calculating moments, and equilibrium of rigid bodies (with an extension to shear strength of bolts).</p>
+                  
+                  <p>Expect to spend <strong>20 minutes</strong> on these. It pays to be pedantic about drawing FBDs. Taking liberties with even the simplest problem can lead to strife.</p>
+                  
+                  <p><strong>Download the tutorial in the Downloads section below and work through the questions.</strong> It includes solutions. It&#8217;s probably best if you try the problem first before looking at the solution.</p>
+                </div>
+                ]"
+"3.12","Adaptive Tutorial: Free-Body Diagram","Exercise","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/81574","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>This is an optional Adaptive Tutorial for you. An Adaptive Tutorial adapts to the choices you make within its rich and interactive activities. Your experience will be tailored depending on the things you do.</p>
+                  
+                  <p>In this tutorial you will learn to construct Free-Body Diagrams (FBDs) from objects that are shown as pictures.</p>
+                  
+                  <p>You will specify forces or moments at force points located on the body.</p>
+                  
+                  <p>This tutorial should take 45-50 minutes to complete.</p>
+                  
+                  <p><strong><em>Note: Please test your browser before starting the tutorial by <a href=""https://aelp.smartsparrow.com/check/"">following this link.</a></em></strong></p>
+                  
+                  <p><strong><em>For the best viewing experience we recommend accessing the Adaptive Tutorials using a desktop or laptop computer.</em></strong></p>
+                  
+                  <p><strong><em>If you experience any technical difficulties in accessing the Adaptive Tutorials, please send us a screen shot, description of your operating system (OS), web browser and steps taken to MOOCs@unsw.edu.au</em></strong></p>
+                  
+                  <p>Select the <strong>Launch button</strong> below to begin.</p>
+                </div>
+                ]"
+"3.13","Adaptive Tutorial evaluation","Exercise","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/88604","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Through this course there will be opportunities for you to give us feedback to evaluate the effectiveness of the Smart Sparrow Adaptive Tutorials for learning &amp; teaching and the design of the course. This is part of a research project approved by the UNSW Australia ethics panel (HC16257).</p>
+                  
+                  <p>Participation in this research is voluntary. If you don&#8217;t wish to take part, you don&#8217;t have to. Your decision will not affect your relationship with UNSW Australia or the completion of the course. <strong>A Participant information Sheet can be found in the downloads section below.</strong> The participant information sheet will also have information if you wish to request to withdraw at any point.</p>
+                  
+                  <p><strong>Select the Launch button below to launch the survey tool.</strong></p>
+                </div>
+                ]"
+"3.14","Check your understanding","Quiz","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70066","[]"
+"3.15","Design a hinge pin for a folding clothes line Part 1","Video","07:47",467,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79965","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6986004/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6986004/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.16","Design a hinge pin for a folding clothes line Part 2","Discussion","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79967","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Did you see the great importance of the extra equilibrium equation we got from considering twist?</p>
+                  
+                  <ul> 
+                  <li>Do you agree that the FBD is vital?</li>
+                  <li>Do you feel that you have gained a life-changing new skill?</li>
+                  <li>Does the world look different?</li>
+                  </ul>
+                  <p>We think it should. Tell us what you think.</p>
+                </div>
+                ]"
+"3.17","Check your understanding","Quiz","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/85150","[]"
+"3.18","Through Engineers' Eyes","Video","01:52",112,"Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79970","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6751991/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6751991/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"3.19","Check your understanding","Quiz","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/83348","[]"
+"3.20","Your thoughts so far","Discussion","","","Week 3","2016-05-02","2 May","Week 3: Just a moment, there's a twist in this","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78628","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>We think you are well on your way to a new world view. 
+                  Do you think the course so far has delivered?</p>
+                </div>
+                ]"
+"4.1","Centre of gravity","Video","01:32",92,"Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79973","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727680/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727680/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.2","Experiment: Finding centres of gravity by suspension","Video","02:05",125,"Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79972","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727734/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727734/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.3","Experiment: Finding centres of gravity by balancing","Video","01:11",71,"Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79974","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727696/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727696/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.4","What did you notice?","Discussion","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78629","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Did you see how both these methods depend on taking moments? You&#8217;ll learn more about this in the analysis section.</p>
+                  
+                  <p>What did you think of the agreement between the two methods?</p>
+                  
+                  <p>The balancing method recommended a circular section for the pivot rather than a knife edge. Did that make sense to you?</p>
+                  
+                  <p>If you did the experiments, were they good value for the time spent?</p>
+                </div>
+                ]"
+"4.5","Check your understanding","Quiz","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70061","[]"
+"4.6","Analysis: Two-force objects","Video","02:02",122,"Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79975","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727717/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727717/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.7","Analysis: Interpreting the tests","Video","03:36",216,"Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79976","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727761/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727761/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.8","Analysis: Centres of gravity of composite bodies","Video","06:03",363,"Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79977","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727786/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727786/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.9","Retro tutorial #4","Article","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78630","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>There&#8217;s no better way to consolidate learning in Engineering Mechanics than quietly working through problems using pencil and paper (that&#8217;s why we call this a &#8216;Retro Tutorial&#8217;).</p>
+                  
+                  <p>Here&#8217;s your chance to become good at recognising two-force objects. Then you&#8217;ll practise finding centres of gravity for a range of objects - of increasing difficulty.
+                  Don&#8217;t forget to use the table method.</p>
+                  
+                  <p>Expect to spend <strong>40 minutes</strong> if you do them all and are methodical in your working.</p>
+                  
+                  <p><strong>Download the tutorial in the Downloads section below and work through the questions.</strong> It includes solutions. It&#8217;s probably best if you try the problem first before looking at the solution.</p>
+                </div>
+                ]"
+"4.10","Check your understanding","Quiz","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70067","[]"
+"4.11","Adaptive Tutorial: Centroids","Exercise","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/58022","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>This is an optional Adaptive Tutorial for you. An Adaptive Tutorial adapts to the choices you make within its rich and interactive activities. Your experience will be tailored depending on the things you do.</p>
+                  
+                  <p>In this tutorial, you will determine centroids using two different approaches.</p>
+                  
+                  <p>You will determine centroids of simple shapes using the method of integration and determine centroids of complex shapes by the method of composite bodies.</p>
+                  
+                  <p>This tutorial should take 50-60 minutes to complete.</p>
+                  
+                  <p><strong><em>Note: Please test your browser before starting the tutorial by <a href=""https://aelp.smartsparrow.com/check/"">following this link.</a></em></strong></p>
+                  
+                  <p><strong><em>For the best viewing experience we recommend accessing the Adaptive Tutorials using a desktop or laptop computer.</em></strong></p>
+                  
+                  <p><strong><em>If you experience any technical difficulties in accessing the Adaptive Tutorials, please send us a screen shot, description of your operating system (OS), web browser and steps taken to MOOCs@unsw.edu.au</em></strong></p>
+                  
+                  <p>Select the <strong>Launch button</strong> below to begin.</p>
+                </div>
+                ]"
+"4.12","Adaptive Tutorial evaluation","Exercise","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/88605","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Through this course there will be opportunities for you to give us feedback to evaluate the effectiveness of the Smart Sparrow Adaptive Tutorials for learning &amp; teaching and the design of the course. This is part of a research project approved by the UNSW Australia ethics panel (HC16257).</p>
+                  
+                  <p>Participation in this research is voluntary. If you don&#8217;t wish to take part, you don&#8217;t have to. Your decision will not affect your relationship with UNSW Australia or the completion of the course. <strong>A Participant information Sheet can be found in the downloads section below.</strong> The participant information sheet will also have information if you wish to request to withdraw at any point.</p>
+                  
+                  <p><strong>Select the Launch button below to launch the survey tool.</strong></p>
+                </div>
+                ]"
+"4.13","Design: Trimming a paper model aeroplane Part 1","Video","05:27",327,"Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79979","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6767501/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6767501/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.14","Trimming a paper model aeroplane Part 2","Discussion","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79980","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Did you use the tabular method for your calculations? If you did, did you use pencil and paper or a spreadsheet program?
+                  Did you build the paper glider? If so, did you find the right ballast weight by trial and error?</p>
+                  
+                  <p>You could use the cardboard balance from Week 3 to weigh out a ballast weight by cutting out an appropriate area of paper as your datum. You could check the weight of your drinking straw this way too. It would be interesting to see whether your calculated ballast weight gave good flight performance.</p>
+                  
+                  <p>Maybe trial and error worked better.</p>
+                  
+                  <p>Note from RF. I had hoped that my paper glider would perform better than the classic folded paper aeroplane. It didn&#8217;t seem to work out that way. But I&#8217;m still trying.</p>
+                </div>
+                ]"
+"4.15","Check your understanding","Quiz","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/85151","[]"
+"4.16","Through Engineers' Eyes","Video","02:06",126,"Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79983","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727822/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727822/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"4.17","Check your understanding","Quiz","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/83349","[]"
+"4.18","Your thoughts so far","Discussion","","","Week 4","2016-05-09","9 May","Week 4: A matter of some gravity","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79984","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>How are you are going so far? Reflections please, such as:</p>
+                  <ul>
+                  <li>Have the various three phases of experiment, analysis and design worked together to help you to develop engineers' eyes?</li>
+                  <li>These experiments with common household items were simpler. Were they good value? </li>
+                  <li>How are we travelling?</li>
+                  <li>Plus any other thoughts that you have.</li>
+                  &lt;/u&gt;
+                  </ul>
+                </div>
+                ]"
+"5.1","Modelling friction","Video","02:18",138,"Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79985","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727845/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727845/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"5.2","Three quick experiments on friction","Video","02:30",150,"Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79986","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727869/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727869/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"5.3","What did you notice?","Discussion","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78631","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Was the reduction in resistance as the book started to move apparent in your tests? When driving, you might have noticed the jerk as you brake to a halt, and the friction in the brakes transitions from sliding to static.</p>
+                  
+                  <p>Did the tip/slide phenomenon show up in your case? Have you encountered this before, perhaps while moving furniture on a carpet or shifting a refrigerator?</p>
+                  
+                  <p>Those of you who use ferries might have seen how the deck-hand takes many turns around a bollard to secure the vessel against the wharf. Sailors will know that crew take multiple turns around a winch to increase friction.</p>
+                  
+                  <p>What else came to mind as you did the tests?</p>
+                </div>
+                ]"
+"5.4","Check your understanding","Quiz","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70062","[]"
+"5.5","Analysis: Basic model of dry friction","Video","04:29",269,"Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79987","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727894/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727894/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"5.6","Analysis: Will it tip or will it slide?","Video","03:49",229,"Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79988","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727888/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727888/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"5.7","Analysis: Rope around a bollard","Video","05:36",336,"Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79989","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727903/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727903/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"5.8","Retro tutorial #5","Article","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78632","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>There&#8217;s no better way to consolidate learning in Engineering Mechanics than quietly working through problems using pencil and paper (that&#8217;s why we call this a &#8216;Retro Tutorial&#8217;).</p>
+                  
+                  <p>This is a topic where doing problems is particularly instructive.</p>
+                  
+                  <p>It might take <strong>30 minutes</strong>. Enjoy.</p>
+                  
+                  <p><strong>Download the tutorial in the Downloads section below and work through the questions.</strong> It includes solutions. It&#8217;s probably best if you try the problem first before looking at the solution.</p>
+                </div>
+                ]"
+"5.9","Check your understanding","Quiz","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70068","[]"
+"5.10","Adaptive Tutorial: Friction","Exercise","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/81575","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>This is an optional Adaptive Tutorial for you. An Adaptive Tutorial adapts to the choices you make within its rich and interactive activities. Your experience will be tailored depending on the things you do.</p>
+                  
+                  <p>This tutorial reviews the major elements of Statics:</p>
+                  
+                  <ol>
+                  <li>Forces</li>
+                  <li>Free-Body Diagrams</li>
+                  <li>Moments</li>
+                  <li>Equilibrium</li>
+                  <li>Friction</li>
+                  </ol>
+                  
+                  <p>This tutorial should take 45-55 minutes to complete.</p>
+                  
+                  <p><strong><em>Note: Please test your browser before starting the tutorial by <a href=""https://aelp.smartsparrow.com/check/"">following this link.</a></em></strong></p>
+                  
+                  <p><strong><em>For the best viewing experience we recommend accessing the Adaptive Tutorials using a desktop or laptop computer.</em></strong></p>
+                  
+                  <p><strong><em>If you experience any technical difficulties in accessing the Adaptive Tutorials, please send us a screen shot, description of your operating system (OS), web browser and steps taken to MOOCs@unsw.edu.au</em></strong></p>
+                  
+                  <p>Select the <strong>Launch button</strong> below to begin.</p>
+                </div>
+                ]"
+"5.11","Adaptive Tutorial evaluation","Exercise","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/88606","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Through this course there will be opportunities for you to give us feedback to evaluate the effectiveness of the Smart Sparrow Adaptive Tutorials for learning &amp; teaching and the design of the course. This is part of a research project approved by the UNSW Australia ethics panel (HC16257).</p>
+                  
+                  <p>Participation in this research is voluntary. If you don&#8217;t wish to take part, you don&#8217;t have to. Your decision will not affect your relationship with UNSW Australia or the completion of the course. <strong>A Participant information Sheet can be found in the downloads section below.</strong> The participant information sheet will also have information if you wish to request to withdraw at any point.</p>
+                  
+                  <p><strong>Select the Launch button below to launch the survey tool.</strong></p>
+                </div>
+                ]"
+"5.12","Designing a flat belt drive Part 1","Video","11:07",667,"Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79991","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727935/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727935/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"5.13","Designing a flat belt drive Part 2","Discussion","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79992","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>How did this work for you?
+                  Did you like the equation?
+                  What other reactions did you have?</p>
+                </div>
+                ]"
+"5.14","Check your understanding","Quiz","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/85152","[]"
+"5.15","Through Engineers' Eyes","Video","01:28",88,"Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79995","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727907/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727907/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"5.16","Check your understanding","Quiz","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/83350","[]"
+"5.17","Your thoughts so far","Discussion","","","Week 5","2016-05-16","16 May","Week 5: There's a fraction too much friction - or maybe not enough","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78633","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>How are you are going so far? Tell us your thoughts on Week 5, such as:</p>
+                  <ul>
+                  <li>These experiments were simple. Did you try any of them?</li>
+                  <li>Were you able to access the exponential function on your calculator?</li>
+                  <li>Do you see beauty and mystery in the equation for the ratio of tensions in a rope around a bollard?</li>
+                  <li>Plus any other thoughts</li>
+                  </ul>
+                </div>
+                ]"
+"6.1","Wind loads","Video","02:22",142,"Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79996","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6727923/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6727923/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"6.2","Experiments on rolling resistance","Video","02:03",123,"Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79997","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728071/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728071/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"6.3","Experiments on air resistance","Video","03:17",197,"Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79998","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728092/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728092/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"6.4","What did you notice?","Discussion","","","Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/78635","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>There&#8217;s so much new here. Most of it will become clearer after the analysis activity.
+                  But take a moment to reflect on your responses to the videos.</p>
+                </div>
+                ]"
+"6.5","Check your understanding","Quiz","","","Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70069","[]"
+"6.6","Analysis: Models of rolling resistance","Video","07:45",465,"Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80000","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728081/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728081/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"6.7","Analysis: Models of air resistance","Video","05:20",320,"Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80001","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728096/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728096/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"6.8","Analysis: Work and power","Video","04:21",261,"Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/79999","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728100/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728100/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"6.9","Retro tutorial #6","Article","","","Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80002","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>There&#8217;s no better way to consolidate learning in Engineering Mechanics than quietly working through problems using pencil and paper (that&#8217;s why we call this a &#8216;Retro Tutorial&#8217;).</p>
+                  
+                  <p>The equations and data in this week&#8217;s retro tutorial are taken from actual engineering practice. It will be a fine contribution towards developing engineers&#8217; eyes.</p>
+                  
+                  <p>You will cover rolling resistance for trains, analyse aerodynamic forces on the glider of week 4, and the range of the miniature vehicle we analysed this week.</p>
+                  
+                  <p>If you do them all and get hooked it might take <strong>an hour</strong>, but it will be worth it for the sheer existential pleasure of it all.</p>
+                  
+                  <p><strong>Download the tutorial in the Downloads section below and work through the questions.</strong> It includes solutions. It&#8217;s probably best if you try the problem first before looking at the solution.</p>
+                </div>
+                ]"
+"6.10","Check your understanding","Quiz","","","Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70063","[]"
+"6.11","Design exploration of an electric car Part 1","Video","09:01",541,"Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80003","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728108/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728108/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"6.12","Design exploration of an electric car Part 2","Discussion","","","Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80004","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>You might have already started to review what you found when you completed part 1. Here you can range more widely.</p>
+                  <ul>
+                  <li>Did the resistance to motion of a car surprise you? </li>
+                  <li>Did the rolling resistance come out at more than you expected? </li>
+                  <li>Did the air resistance at high speeds seem surprisingly large (or small)?</li>
+                  </ul>
+                  
+                  <p>Perhaps you explored drag coefficients with a web-search. If so, what did you find?</p>
+                  
+                  <p>These methods apply to many types of vehicles - from B-Double semi-trailers (or triple trailer road trains) to bicycles.</p>
+                  
+                  <p>Have you tried to analyse any of these?</p>
+                  
+                  <p>What else surprised you, delighted you or intrigued you? Share your thoughts.</p>
+                </div>
+                ]"
+"6.13","Check your understanding","Quiz","","","Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/85153","[]"
+"6.14","Through Engineers' Eyes","Video","01:14",74,"Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80007","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728112/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728112/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"6.15","Check your understanding","Quiz","","","Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/83352","[]"
+"6.16","Your thoughts so far","Discussion","","","Week 6","2016-05-23","23 May","Week 6: Facing into the wind","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80008","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>How are you are going so far? Tell us your thoughts on Week 6, such as:</p>
+                  <ul>
+                  <li>Do you agree that the equation for wind load is beautiful?</li>
+                  <li>We wanted to include power in this MOOC because it can be thrilling. Was it a good idea?</li>
+                  <li>Did the amount of power needed under various operating conditions surprise you?</li>
+                  <li>Plus any other thoughts
+                  &lt;/ul&gt;
+                  </li></ul>
+                </div>
+                ]"
+"7.1","Experiment: A game of shove ha'penny","Video","02:51",171,"Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80009","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728166/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728166/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"7.2","Analysis: Impulse-momentum","Video","04:19",259,"Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80010","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6728132/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6728132/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"7.3","Check your understanding","Quiz","","","Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/70065","[]"
+"7.4","Adaptive Tutorial: Impulse and Momentum","Exercise","","","Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/81577","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>This is an optional Adaptive Tutorial for you. An Adaptive Tutorial adapts to the choices you make within its rich and interactive activities. Your experience will be tailored depending on the things you do.</p>
+                  
+                  <p>In this tutorial you will use principles of mechanics to explore what happens when vehicles collide.</p>
+                  
+                  <p>This tutorial should take 50-65 minutes to complete.</p>
+                  
+                  <p><strong><em>Note: Please test your browser before starting the tutorial by <a href=""https://aelp.smartsparrow.com/check/"">following this link.</a></em></strong></p>
+                  
+                  <p><strong><em>For the best viewing experience we recommend accessing the Adaptive Tutorials using a desktop or laptop computer.</em></strong></p>
+                  
+                  <p><strong><em>If you experience any technical difficulties in accessing the Adaptive Tutorials, please send us a screen shot, description of your operating system (OS), web browser and steps taken to MOOCs@unsw.edu.au</em></strong></p>
+                  
+                  <p>Select the <strong>Launch button</strong> below to begin.</p>
+                </div>
+                ]"
+"7.5","Adaptive Tutorial: Projectile Motion","Exercise","","","Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/81576","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>This is an optional Adaptive Tutorial for you. An Adaptive Tutorial adapts to the choices you make within its rich and interactive activities. Your experience will be tailored depending on the things you do.</p>
+                  
+                  <p>In this tutorial, you will be given a situation in which you have to apply the concept of projectile motion learnt in the course.</p>
+                  
+                  <p>This tutorial should take 65-75 minutes to complete.</p>
+                  
+                  <p><strong><em>Note: Please test your browser before starting the tutorial by <a href=""https://aelp.smartsparrow.com/check/"">following this link.</a></em></strong></p>
+                  
+                  <p><strong><em>For the best viewing experience we recommend accessing the Adaptive Tutorials using a desktop or laptop computer.</em></strong></p>
+                  
+                  <p><strong><em>If you experience any technical difficulties in accessing the Adaptive Tutorials, please send us a screen shot, description of your operating system (OS), web browser and steps taken to MOOCs@unsw.edu.au</em></strong></p>
+                  
+                  <p>Select the <strong>Launch button</strong> below to begin.</p>
+                </div>
+                ]"
+"7.6","Adaptive Tutorial evaluation","Exercise","","","Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/88608","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Through this course there will be opportunities for you to give us feedback to evaluate the effectiveness of the Smart Sparrow Adaptive Tutorials for learning &amp; teaching and the design of the course. This is part of a research project approved by the UNSW Australia ethics panel (HC16257).</p>
+                  
+                  <p>Participation in this research is voluntary. If you don&#8217;t wish to take part, you don&#8217;t have to. Your decision will not affect your relationship with UNSW Australia or the completion of the course. <strong>A Participant information Sheet can be found in the downloads section below.</strong> The participant information sheet will also have information if you wish to request to withdraw at any point.</p>
+                  
+                  <p><strong>Select the Launch button below to launch the survey tool.</strong></p>
+                </div>
+                ]"
+"7.7","Evaluating the air resistance rig","Article","","","Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80015","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Here is your final chance in this course to exercise your newly developed engineers&#8217; eyes!</p>
+                  
+                  <p>There are questions in the pdf below that will get you thinking about everything you have encountered in the course.</p>
+                  
+                  <p><strong>Download the instructions and share your ideas in the comments below.</strong></p>
+                  
+                  <p>To encourage you to share your ideas in the discussion, we have not provided answers. You will have &#8216;engineers&#8217; eyes&#8217; by now!</p>
+                </div>
+                ]"
+"7.8","Through Engineers' Eyes","Video","02:37",157,"Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/80016","[<div class=""video-options"">
+                  <div class=""video-options__transcript"">
+                    <a href=""#transcript-en"">View transcript</a>
+                  </div>
+                  <div class=""video-options__video"">
+                    Download video:
+                    <a class=""download"" data-video-quality=""SD"" href=""//view.vzaar.com/6774888/download"">standard</a>
+                    or
+                    <a class=""download"" data-video-quality=""HD"" href=""//view.vzaar.com/6774888/download/hd"">HD</a>
+                  </div>
+                </div>
+                ]"
+"7.9","Final thoughts","Article","","","Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/87594","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Congratulations on reaching the end of the course! We&#8217;ve enjoyed engaging with your discussion and contributions. Thanks also for all your feedback.</p>
+                  
+                  <p>We&#8217;ve enjoyed creating this course and sharing it with so many people from diverse backgrounds around the world. We hope that you have enjoyed learning the basics of Engineering Mechanics by experiment, analysis and design, and we hope you are getting used to your &#8216;engineers&#8217; eyes&#8217;.</p>
+                  
+                  <p>Before you go make sure you complete our 
+                  <a href=""https://www.surveymonkey.co.uk/r/FL_UNSW_Engineers_1_post"">post course survey</a>.</p>
+                  
+                  <p>If this course has inspired you to consider further academic study in the field of Mechanical Engineering check out the <a href=""https://www.engineering.unsw.edu.au/mechanical-engineering/"">UNSW Mechanical and Manufacturing Engineering</a> website for more details.</p>
+                  
+                  <p>To be eligible to buy a <a href=""https://www.futurelearn.com/courses/through-engineers-eyes/1/statement-of-participation"">Statement of Participation</a>, you must have completed the majority of steps in a course (by using the &#8220;Mark as complete&#8221; button on each step). FutureLearn will email you once you become eligible. You can check how close you are to being eligible on your course <a href=""https://www.futurelearn.com/courses/through-engineers-eyes/1/progress"">progress page</a>.</p>
+                  
+                  <p>We wish you all the very best.</p>
+                  
+                  <p>Ganga Prusty and Robin Ford</p>
+                </div>
+                ]"
+"7.10","Acknowledgements","Article","","","Week 7","2016-05-30","30 May","Week 7: Looking forward: looking back","https://www.futurelearn.com/courses/through-engineers-eyes/1/steps/98511","[<div class=""a-text-context a-text-context--bold-intro"">
+                  <p>Dear Participants,<br/>
+                  It is my great pleasure in thanking you all for participating in the first iteration of this course and providing us with enough encouragement, constructive comments and motivation to continue offering this course again. Your comments and suggestions are very valuable to us and we will look into each one of them very carefully!</p>
+                  
+                  <p>Robin has been the backbone of this course and Jay&#8217;s contribution has been phenomenal. This course offering could not have been possible without the full support of my colleagues John Vulic and Moein Ghodrati who worked behind the scene uninterruptedly over the last several months. Thank you all!</p>
+                  
+                  <p>We will offer the course again on 5th September 2016. Feel free to let your friends and colleagues know about it.</p>
+                  
+                  <p>Best wishes<br/>
+                  Gangadhara Prusty</p>
+                </div>
+                ]"

@@ -1,0 +1,58 @@
+# --------------------------------------------------------------------------- #
+
+
+[general]
+
+# Credentials to access https://www.futurelearn.com/sign-in (note: not the partner's site)
+username = @unsw.edu.au
+password = 
+
+# After logging in, wait X seconds, else your requests may fail (i.e. needs time to log in)
+wait_time_seconds = 5
+
+# if this is blank, the files will just download to where the script is running from
+# else /where script is/folder/
+# will create a file called <course_slug>-<version>-step_info.csv
+place_files_in_data_directory =  C:/UNSW/public_futurelearn/StepInfoDownloader/output
+
+# <course slug> <version> (i.e. separated by whitespace)
+use_course_slugs = False
+course_slugs = 	ww1-lessons-legacy            3	
+use_inprogress_courses = True
+use_active_courses = False
+
+# organisation names
+organisations = unsw-sydney
+		unsw-canberra
+
+# --------------------------------------------------------------------------- #
+
+[database]
+
+db_host = localhost
+db_name = futurelearn_courses_information
+db_user = root
+db_pass = 
+
+# --------------------------------------------------------------------------- #
+
+[course_info]
+
+# It does not do any thing regarding parsing the course pages if sets to False
+export_enable = False
+
+# It does not do any thing regarding loading the course details into the database if set to False
+db_export_enable = False
+
+# --------------------------------------------------------------------------- #
+
+[step_info]
+
+# It does not do any thing regarding parsing the step pages if sets to False
+export_enable = True
+
+# It does not do any thing regarding loading the step details into the database if set to False
+db_export_enable = False
+
+
+
